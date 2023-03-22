@@ -1,0 +1,2136 @@
+﻿Constructor Id,Name,Race,Race Id,Result Id,Year,F1,Grid,Position Order
+6,Ferrari,Bahrain Grand Prix,337,20323,2010,20320,3,1
+6,Ferrari,Bahrain Grand Prix,337,20324,2010,20321,2,2
+1,McLaren,Bahrain Grand Prix,337,20325,2010,20322,4,3
+9,Red Bull,Bahrain Grand Prix,337,20326,2010,20323,1,4
+131,Mercedes,Bahrain Grand Prix,337,20327,2010,20324,5,5
+131,Mercedes,Bahrain Grand Prix,337,20328,2010,20325,7,6
+1,McLaren,Bahrain Grand Prix,337,20329,2010,20326,8,7
+9,Red Bull,Bahrain Grand Prix,337,20330,2010,20327,6,8
+10,Force India,Bahrain Grand Prix,337,20331,2010,20328,12,9
+3,Williams,Bahrain Grand Prix,337,20332,2010,20329,11,10
+4,Renault,Bahrain Grand Prix,337,20333,2010,20330,9,11
+10,Force India,Bahrain Grand Prix,337,20334,2010,20331,10,12
+5,Toro Rosso,Bahrain Grand Prix,337,20335,2010,20332,18,13
+3,Williams,Bahrain Grand Prix,337,20336,2010,20333,13,14
+205,Lotus,Bahrain Grand Prix,337,20337,2010,20334,21,15
+5,Toro Rosso,Bahrain Grand Prix,337,20338,2010,20335,15,16
+205,Lotus,Bahrain Grand Prix,337,20339,2010,20336,20,17
+15,Sauber,Bahrain Grand Prix,337,20340,2010,20337,14,18
+164,HRT,Bahrain Grand Prix,337,20341,2010,20338,23,19
+166,Virgin,Bahrain Grand Prix,337,20342,2010,20339,19,20
+4,Renault,Bahrain Grand Prix,337,20343,2010,20340,17,21
+15,Sauber,Bahrain Grand Prix,337,20344,2010,20341,16,22
+166,Virgin,Bahrain Grand Prix,337,20345,2010,20342,22,23
+164,HRT,Bahrain Grand Prix,337,20346,2010,20343,24,24
+9,Red Bull,Spanish Grand Prix,341,20419,2010,20416,1,1
+6,Ferrari,Spanish Grand Prix,341,20420,2010,20417,4,2
+9,Red Bull,Spanish Grand Prix,341,20421,2010,20418,2,3
+131,Mercedes,Spanish Grand Prix,341,20422,2010,20419,6,4
+1,McLaren,Spanish Grand Prix,341,20423,2010,20420,5,5
+6,Ferrari,Spanish Grand Prix,341,20424,2010,20421,9,6
+10,Force India,Spanish Grand Prix,341,20425,2010,20422,11,7
+4,Renault,Spanish Grand Prix,341,20426,2010,20423,7,8
+3,Williams,Spanish Grand Prix,341,20427,2010,20424,17,9
+5,Toro Rosso,Spanish Grand Prix,341,20428,2010,20425,15,10
+4,Renault,Spanish Grand Prix,341,20429,2010,20426,19,11
+15,Sauber,Spanish Grand Prix,341,20430,2010,20427,10,12
+131,Mercedes,Spanish Grand Prix,341,20431,2010,20428,8,13
+1,McLaren,Spanish Grand Prix,341,20432,2010,20429,3,14
+10,Force India,Spanish Grand Prix,341,20433,2010,20430,16,15
+3,Williams,Spanish Grand Prix,341,20434,2010,20431,13,16
+205,Lotus,Spanish Grand Prix,341,20435,2010,20432,18,17
+166,Virgin,Spanish Grand Prix,341,20436,2010,20433,22,18
+166,Virgin,Spanish Grand Prix,341,20437,2010,20434,23,19
+5,Toro Rosso,Spanish Grand Prix,341,20438,2010,20435,14,20
+164,HRT,Spanish Grand Prix,341,20439,2010,20436,24,21
+15,Sauber,Spanish Grand Prix,341,20440,2010,20437,12,22
+164,HRT,Spanish Grand Prix,341,20441,2010,20438,21,23
+205,Lotus,Spanish Grand Prix,341,20442,2010,20439,20,24
+1,McLaren,Turkish Grand Prix,343,20467,2010,20464,2,1
+1,McLaren,Turkish Grand Prix,343,20468,2010,20465,4,2
+9,Red Bull,Turkish Grand Prix,343,20469,2010,20466,1,3
+131,Mercedes,Turkish Grand Prix,343,20470,2010,20467,5,4
+131,Mercedes,Turkish Grand Prix,343,20471,2010,20468,6,5
+4,Renault,Turkish Grand Prix,343,20472,2010,20469,7,6
+6,Ferrari,Turkish Grand Prix,343,20473,2010,20470,8,7
+6,Ferrari,Turkish Grand Prix,343,20474,2010,20471,12,8
+10,Force India,Turkish Grand Prix,343,20475,2010,20472,11,9
+15,Sauber,Turkish Grand Prix,343,20476,2010,20473,10,10
+15,Sauber,Turkish Grand Prix,343,20477,2010,20474,13,11
+5,Toro Rosso,Turkish Grand Prix,343,20478,2010,20475,16,12
+10,Force India,Turkish Grand Prix,343,20479,2010,20476,18,13
+3,Williams,Turkish Grand Prix,343,20480,2010,20477,15,14
+4,Renault,Turkish Grand Prix,343,20481,2010,20478,9,15
+5,Toro Rosso,Turkish Grand Prix,343,20482,2010,20479,14,16
+3,Williams,Turkish Grand Prix,343,20483,2010,20480,17,17
+166,Virgin,Turkish Grand Prix,343,20484,2010,20481,21,18
+166,Virgin,Turkish Grand Prix,343,20485,2010,20482,23,19
+164,HRT,Turkish Grand Prix,343,20486,2010,20483,24,20
+164,HRT,Turkish Grand Prix,343,20487,2010,20484,22,21
+9,Red Bull,Turkish Grand Prix,343,20488,2010,20485,3,22
+205,Lotus,Turkish Grand Prix,343,20489,2010,20486,20,23
+205,Lotus,Turkish Grand Prix,343,20490,2010,20487,19,24
+9,Red Bull,British Grand Prix,346,20539,2010,20536,2,1
+1,McLaren,British Grand Prix,346,20540,2010,20537,4,2
+131,Mercedes,British Grand Prix,346,20541,2010,20538,5,3
+1,McLaren,British Grand Prix,346,20542,2010,20539,14,4
+3,Williams,British Grand Prix,346,20543,2010,20540,8,5
+15,Sauber,British Grand Prix,346,20544,2010,20541,12,6
+9,Red Bull,British Grand Prix,346,20545,2010,20542,1,7
+10,Force India,British Grand Prix,346,20546,2010,20543,11,8
+131,Mercedes,British Grand Prix,346,20547,2010,20544,10,9
+3,Williams,British Grand Prix,346,20548,2010,20545,13,10
+10,Force India,British Grand Prix,346,20549,2010,20546,20,11
+5,Toro Rosso,British Grand Prix,346,20550,2010,20547,16,12
+4,Renault,British Grand Prix,346,20551,2010,20548,15,13
+6,Ferrari,British Grand Prix,346,20552,2010,20549,3,14
+6,Ferrari,British Grand Prix,346,20553,2010,20550,7,15
+205,Lotus,British Grand Prix,346,20554,2010,20551,21,16
+205,Lotus,British Grand Prix,346,20555,2010,20552,18,17
+166,Virgin,British Grand Prix,346,20556,2010,20553,19,18
+164,HRT,British Grand Prix,346,20557,2010,20554,23,19
+164,HRT,British Grand Prix,346,20558,2010,20555,24,20
+5,Toro Rosso,British Grand Prix,346,20559,2010,20556,17,21
+15,Sauber,British Grand Prix,346,20560,2010,20557,9,22
+4,Renault,British Grand Prix,346,20561,2010,20558,6,23
+166,Virgin,British Grand Prix,346,20562,2010,20559,22,24
+9,Red Bull,Hungarian Grand Prix,348,20587,2010,20584,2,1
+6,Ferrari,Hungarian Grand Prix,348,20588,2010,20585,3,2
+9,Red Bull,Hungarian Grand Prix,348,20589,2010,20586,1,3
+6,Ferrari,Hungarian Grand Prix,348,20590,2010,20587,4,4
+4,Renault,Hungarian Grand Prix,348,20591,2010,20588,7,5
+3,Williams,Hungarian Grand Prix,348,20592,2010,20589,10,6
+15,Sauber,Hungarian Grand Prix,348,20593,2010,20590,9,7
+1,McLaren,Hungarian Grand Prix,348,20594,2010,20591,11,8
+15,Sauber,Hungarian Grand Prix,348,20595,2010,20592,23,9
+3,Williams,Hungarian Grand Prix,348,20596,2010,20593,12,10
+131,Mercedes,Hungarian Grand Prix,348,20597,2010,20594,14,11
+5,Toro Rosso,Hungarian Grand Prix,348,20598,2010,20595,15,12
+10,Force India,Hungarian Grand Prix,348,20599,2010,20596,16,13
+205,Lotus,Hungarian Grand Prix,348,20600,2010,20597,19,14
+205,Lotus,Hungarian Grand Prix,348,20601,2010,20598,20,15
+166,Virgin,Hungarian Grand Prix,348,20602,2010,20599,18,16
+164,HRT,Hungarian Grand Prix,348,20603,2010,20600,22,17
+166,Virgin,Hungarian Grand Prix,348,20604,2010,20601,21,18
+164,HRT,Hungarian Grand Prix,348,20605,2010,20602,24,19
+1,McLaren,Hungarian Grand Prix,348,20606,2010,20603,5,20
+4,Renault,Hungarian Grand Prix,348,20607,2010,20604,8,21
+131,Mercedes,Hungarian Grand Prix,348,20608,2010,20605,6,22
+10,Force India,Hungarian Grand Prix,348,20609,2010,20606,13,23
+5,Toro Rosso,Hungarian Grand Prix,348,20610,2010,20607,17,24
+1,McLaren,Belgian Grand Prix,349,20611,2010,20608,2,1
+9,Red Bull,Belgian Grand Prix,349,20612,2010,20609,1,2
+4,Renault,Belgian Grand Prix,349,20613,2010,20610,3,3
+6,Ferrari,Belgian Grand Prix,349,20614,2010,20611,6,4
+10,Force India,Belgian Grand Prix,349,20615,2010,20612,8,5
+131,Mercedes,Belgian Grand Prix,349,20616,2010,20613,14,6
+131,Mercedes,Belgian Grand Prix,349,20617,2010,20614,21,7
+15,Sauber,Belgian Grand Prix,349,20618,2010,20615,17,8
+4,Renault,Belgian Grand Prix,349,20619,2010,20616,23,9
+10,Force India,Belgian Grand Prix,349,20620,2010,20617,12,10
+15,Sauber,Belgian Grand Prix,349,20621,2010,20618,24,11
+5,Toro Rosso,Belgian Grand Prix,349,20622,2010,20619,16,12
+5,Toro Rosso,Belgian Grand Prix,349,20623,2010,20620,11,13
+3,Williams,Belgian Grand Prix,349,20624,2010,20621,9,14
+9,Red Bull,Belgian Grand Prix,349,20625,2010,20622,4,15
+205,Lotus,Belgian Grand Prix,349,20626,2010,20623,13,16
+166,Virgin,Belgian Grand Prix,349,20627,2010,20624,22,17
+166,Virgin,Belgian Grand Prix,349,20628,2010,20625,20,18
+205,Lotus,Belgian Grand Prix,349,20629,2010,20626,15,19
+164,HRT,Belgian Grand Prix,349,20630,2010,20627,19,20
+6,Ferrari,Belgian Grand Prix,349,20631,2010,20628,10,21
+1,McLaren,Belgian Grand Prix,349,20632,2010,20629,5,22
+164,HRT,Belgian Grand Prix,349,20633,2010,20630,18,23
+3,Williams,Belgian Grand Prix,349,20634,2010,20631,7,24
+6,Ferrari,Italian Grand Prix,350,20635,2010,20632,1,1
+1,McLaren,Italian Grand Prix,350,20636,2010,20633,2,2
+6,Ferrari,Italian Grand Prix,350,20637,2010,20634,3,3
+9,Red Bull,Italian Grand Prix,350,20638,2010,20635,6,4
+131,Mercedes,Italian Grand Prix,350,20639,2010,20636,7,5
+9,Red Bull,Italian Grand Prix,350,20640,2010,20637,4,6
+3,Williams,Italian Grand Prix,350,20641,2010,20638,8,7
+4,Renault,Italian Grand Prix,350,20642,2010,20639,9,8
+131,Mercedes,Italian Grand Prix,350,20643,2010,20640,12,9
+3,Williams,Italian Grand Prix,350,20644,2010,20641,10,10
+5,Toro Rosso,Italian Grand Prix,350,20645,2010,20642,14,11
+10,Force India,Italian Grand Prix,350,20646,2010,20643,19,12
+4,Renault,Italian Grand Prix,350,20647,2010,20644,20,13
+15,Sauber,Italian Grand Prix,350,20648,2010,20645,16,14
+5,Toro Rosso,Italian Grand Prix,350,20649,2010,20646,15,15
+10,Force India,Italian Grand Prix,350,20650,2010,20647,11,16
+166,Virgin,Italian Grand Prix,350,20651,2010,20648,24,17
+205,Lotus,Italian Grand Prix,350,20652,2010,20649,18,18
+164,HRT,Italian Grand Prix,350,20653,2010,20650,23,19
+166,Virgin,Italian Grand Prix,350,20654,2010,20651,21,20
+205,Lotus,Italian Grand Prix,350,20655,2010,20652,17,21
+164,HRT,Italian Grand Prix,350,20656,2010,20653,22,22
+1,McLaren,Italian Grand Prix,350,20657,2010,20654,5,23
+15,Sauber,Italian Grand Prix,350,20658,2010,20655,13,24
+9,Red Bull,Abu Dhabi Grand Prix,355,20755,2010,20752,1,1
+1,McLaren,Abu Dhabi Grand Prix,355,20756,2010,20753,2,2
+1,McLaren,Abu Dhabi Grand Prix,355,20757,2010,20754,4,3
+131,Mercedes,Abu Dhabi Grand Prix,355,20758,2010,20755,9,4
+4,Renault,Abu Dhabi Grand Prix,355,20759,2010,20756,11,5
+4,Renault,Abu Dhabi Grand Prix,355,20760,2010,20757,10,6
+6,Ferrari,Abu Dhabi Grand Prix,355,20761,2010,20758,3,7
+9,Red Bull,Abu Dhabi Grand Prix,355,20762,2010,20759,5,8
+5,Toro Rosso,Abu Dhabi Grand Prix,355,20763,2010,20760,17,9
+6,Ferrari,Abu Dhabi Grand Prix,355,20764,2010,20761,6,10
+15,Sauber,Abu Dhabi Grand Prix,355,20765,2010,20762,14,11
+3,Williams,Abu Dhabi Grand Prix,355,20766,2010,20763,7,12
+10,Force India,Abu Dhabi Grand Prix,355,20767,2010,20764,13,13
+15,Sauber,Abu Dhabi Grand Prix,355,20768,2010,20765,12,14
+5,Toro Rosso,Abu Dhabi Grand Prix,355,20769,2010,20766,18,15
+3,Williams,Abu Dhabi Grand Prix,355,20770,2010,20767,15,16
+205,Lotus,Abu Dhabi Grand Prix,355,20771,2010,20768,20,17
+166,Virgin,Abu Dhabi Grand Prix,355,20772,2010,20769,22,18
+164,HRT,Abu Dhabi Grand Prix,355,20773,2010,20770,23,19
+164,HRT,Abu Dhabi Grand Prix,355,20774,2010,20771,24,20
+205,Lotus,Abu Dhabi Grand Prix,355,20775,2010,20772,19,21
+166,Virgin,Abu Dhabi Grand Prix,355,20776,2010,20773,21,22
+131,Mercedes,Abu Dhabi Grand Prix,355,20777,2010,20774,8,23
+10,Force India,Abu Dhabi Grand Prix,355,20778,2010,20775,16,24
+9,Red Bull,Turkish Grand Prix,844,20849,2011,20846,1,1
+9,Red Bull,Turkish Grand Prix,844,20850,2011,20847,2,2
+6,Ferrari,Turkish Grand Prix,844,20851,2011,20848,5,3
+1,McLaren,Turkish Grand Prix,844,20852,2011,20849,4,4
+131,Mercedes,Turkish Grand Prix,844,20853,2011,20850,3,5
+1,McLaren,Turkish Grand Prix,844,20854,2011,20851,6,6
+4,Renault,Turkish Grand Prix,844,20855,2011,20852,9,7
+4,Renault,Turkish Grand Prix,844,20856,2011,20853,7,8
+5,Toro Rosso,Turkish Grand Prix,844,20857,2011,20854,16,9
+15,Sauber,Turkish Grand Prix,844,20858,2011,20855,24,10
+6,Ferrari,Turkish Grand Prix,844,20859,2011,20856,10,11
+131,Mercedes,Turkish Grand Prix,844,20860,2011,20857,8,12
+10,Force India,Turkish Grand Prix,844,20861,2011,20858,12,13
+15,Sauber,Turkish Grand Prix,844,20862,2011,20859,15,14
+3,Williams,Turkish Grand Prix,844,20863,2011,20860,11,15
+5,Toro Rosso,Turkish Grand Prix,844,20864,2011,20861,17,16
+3,Williams,Turkish Grand Prix,844,20865,2011,20862,14,17
+205,Lotus,Turkish Grand Prix,844,20866,2011,20863,19,18
+205,Lotus,Turkish Grand Prix,844,20867,2011,20864,18,19
+166,Virgin,Turkish Grand Prix,844,20868,2011,20865,23,20
+164,HRT,Turkish Grand Prix,844,20869,2011,20866,22,21
+164,HRT,Turkish Grand Prix,844,20870,2011,20867,20,22
+10,Force India,Turkish Grand Prix,844,20871,2011,20868,13,23
+166,Virgin,Turkish Grand Prix,844,20872,2011,20869,21,24
+9,Red Bull,Spanish Grand Prix,845,20873,2011,20870,2,1
+1,McLaren,Spanish Grand Prix,845,20874,2011,20871,3,2
+1,McLaren,Spanish Grand Prix,845,20875,2011,20872,5,3
+9,Red Bull,Spanish Grand Prix,845,20876,2011,20873,1,4
+6,Ferrari,Spanish Grand Prix,845,20877,2011,20874,4,5
+131,Mercedes,Spanish Grand Prix,845,20878,2011,20875,10,6
+131,Mercedes,Spanish Grand Prix,845,20879,2011,20876,7,7
+4,Renault,Spanish Grand Prix,845,20880,2011,20877,24,8
+15,Sauber,Spanish Grand Prix,845,20881,2011,20878,12,9
+15,Sauber,Spanish Grand Prix,845,20882,2011,20879,14,10
+4,Renault,Spanish Grand Prix,845,20883,2011,20880,6,11
+10,Force India,Spanish Grand Prix,845,20884,2011,20881,16,12
+10,Force India,Spanish Grand Prix,845,20885,2011,20882,17,13
+5,Toro Rosso,Spanish Grand Prix,845,20886,2011,20883,11,14
+3,Williams,Spanish Grand Prix,845,20887,2011,20884,9,15
+5,Toro Rosso,Spanish Grand Prix,845,20888,2011,20885,13,16
+3,Williams,Spanish Grand Prix,845,20889,2011,20886,19,17
+205,Lotus,Spanish Grand Prix,845,20890,2011,20887,18,18
+166,Virgin,Spanish Grand Prix,845,20891,2011,20888,20,19
+166,Virgin,Spanish Grand Prix,845,20892,2011,20889,23,20
+164,HRT,Spanish Grand Prix,845,20893,2011,20890,22,21
+6,Ferrari,Spanish Grand Prix,845,20894,2011,20891,8,22
+205,Lotus,Spanish Grand Prix,845,20895,2011,20892,15,23
+164,HRT,Spanish Grand Prix,845,20896,2011,20893,21,24
+6,Ferrari,British Grand Prix,849,20968,2011,20965,3,1
+9,Red Bull,British Grand Prix,849,20969,2011,20966,2,2
+9,Red Bull,British Grand Prix,849,20970,2011,20967,1,3
+1,McLaren,British Grand Prix,849,20971,2011,20968,10,4
+6,Ferrari,British Grand Prix,849,20972,2011,20969,4,5
+131,Mercedes,British Grand Prix,849,20973,2011,20970,9,6
+15,Sauber,British Grand Prix,849,20974,2011,20971,12,7
+4,Renault,British Grand Prix,849,20975,2011,20972,16,8
+131,Mercedes,British Grand Prix,849,20976,2011,20973,13,9
+5,Toro Rosso,British Grand Prix,849,20977,2011,20974,18,10
+10,Force India,British Grand Prix,849,20978,2011,20975,11,11
+4,Renault,British Grand Prix,849,20979,2011,20976,14,12
+3,Williams,British Grand Prix,849,20980,2011,20977,15,13
+3,Williams,British Grand Prix,849,20981,2011,20978,7,14
+10,Force India,British Grand Prix,849,20982,2011,20979,6,15
+166,Virgin,British Grand Prix,849,20983,2011,20980,20,16
+166,Virgin,British Grand Prix,849,20984,2011,20981,22,17
+164,HRT,British Grand Prix,849,20985,2011,20982,23,18
+164,HRT,British Grand Prix,849,20986,2011,20983,24,19
+1,McLaren,British Grand Prix,849,20987,2011,20984,5,20
+5,Toro Rosso,British Grand Prix,849,20988,2011,20985,19,21
+15,Sauber,British Grand Prix,849,20989,2011,20986,8,22
+205,Lotus,British Grand Prix,849,20990,2011,20987,21,23
+205,Lotus,British Grand Prix,849,20991,2011,20988,17,24
+1,McLaren,Hungarian Grand Prix,851,21016,2011,21013,3,1
+9,Red Bull,Hungarian Grand Prix,851,21017,2011,21014,1,2
+6,Ferrari,Hungarian Grand Prix,851,21018,2011,21015,5,3
+1,McLaren,Hungarian Grand Prix,851,21019,2011,21016,2,4
+9,Red Bull,Hungarian Grand Prix,851,21020,2011,21017,6,5
+6,Ferrari,Hungarian Grand Prix,851,21021,2011,21018,4,6
+10,Force India,Hungarian Grand Prix,851,21022,2011,21019,11,7
+5,Toro Rosso,Hungarian Grand Prix,851,21023,2011,21020,23,8
+131,Mercedes,Hungarian Grand Prix,851,21024,2011,21021,7,9
+5,Toro Rosso,Hungarian Grand Prix,851,21025,2011,21022,16,10
+15,Sauber,Hungarian Grand Prix,851,21026,2011,21023,13,11
+4,Renault,Hungarian Grand Prix,851,21027,2011,21024,12,12
+3,Williams,Hungarian Grand Prix,851,21028,2011,21025,15,13
+10,Force India,Hungarian Grand Prix,851,21029,2011,21026,8,14
+15,Sauber,Hungarian Grand Prix,851,21030,2011,21027,10,15
+3,Williams,Hungarian Grand Prix,851,21031,2011,21028,17,16
+166,Virgin,Hungarian Grand Prix,851,21032,2011,21029,20,17
+164,HRT,Hungarian Grand Prix,851,21033,2011,21030,22,18
+166,Virgin,Hungarian Grand Prix,851,21034,2011,21031,24,19
+164,HRT,Hungarian Grand Prix,851,21035,2011,21032,21,20
+205,Lotus,Hungarian Grand Prix,851,21036,2011,21033,18,21
+131,Mercedes,Hungarian Grand Prix,851,21037,2011,21034,9,22
+4,Renault,Hungarian Grand Prix,851,21038,2011,21035,14,23
+205,Lotus,Hungarian Grand Prix,851,21039,2011,21036,19,24
+9,Red Bull,Belgian Grand Prix,852,21040,2011,21037,1,1
+9,Red Bull,Belgian Grand Prix,852,21041,2011,21038,3,2
+1,McLaren,Belgian Grand Prix,852,21042,2011,21039,13,3
+6,Ferrari,Belgian Grand Prix,852,21043,2011,21040,8,4
+131,Mercedes,Belgian Grand Prix,852,21044,2011,21041,24,5
+131,Mercedes,Belgian Grand Prix,852,21045,2011,21042,5,6
+10,Force India,Belgian Grand Prix,852,21046,2011,21043,15,7
+6,Ferrari,Belgian Grand Prix,852,21047,2011,21044,4,8
+4,Renault,Belgian Grand Prix,852,21048,2011,21045,10,9
+3,Williams,Belgian Grand Prix,852,21049,2011,21046,21,10
+10,Force India,Belgian Grand Prix,852,21050,2011,21047,17,11
+15,Sauber,Belgian Grand Prix,852,21051,2011,21048,12,12
+4,Renault,Belgian Grand Prix,852,21052,2011,21049,7,13
+205,Lotus,Belgian Grand Prix,852,21053,2011,21050,18,14
+205,Lotus,Belgian Grand Prix,852,21054,2011,21051,16,15
+3,Williams,Belgian Grand Prix,852,21055,2011,21052,14,16
+166,Virgin,Belgian Grand Prix,852,21056,2011,21053,20,17
+166,Virgin,Belgian Grand Prix,852,21057,2011,21054,19,18
+164,HRT,Belgian Grand Prix,852,21058,2011,21055,22,19
+15,Sauber,Belgian Grand Prix,852,21059,2011,21056,9,20
+164,HRT,Belgian Grand Prix,852,21060,2011,21057,23,21
+1,McLaren,Belgian Grand Prix,852,21061,2011,21058,2,22
+5,Toro Rosso,Belgian Grand Prix,852,21062,2011,21059,11,23
+5,Toro Rosso,Belgian Grand Prix,852,21063,2011,21060,6,24
+9,Red Bull,Italian Grand Prix,853,21064,2011,21061,1,1
+1,McLaren,Italian Grand Prix,853,21065,2011,21062,3,2
+6,Ferrari,Italian Grand Prix,853,21066,2011,21063,4,3
+1,McLaren,Italian Grand Prix,853,21067,2011,21064,2,4
+131,Mercedes,Italian Grand Prix,853,21068,2011,21065,8,5
+6,Ferrari,Italian Grand Prix,853,21069,2011,21066,6,6
+5,Toro Rosso,Italian Grand Prix,853,21070,2011,21067,18,7
+10,Force India,Italian Grand Prix,853,21071,2011,21068,11,8
+4,Renault,Italian Grand Prix,853,21072,2011,21069,10,9
+5,Toro Rosso,Italian Grand Prix,853,21073,2011,21070,16,10
+3,Williams,Italian Grand Prix,853,21074,2011,21071,14,11
+3,Williams,Italian Grand Prix,853,21075,2011,21072,13,12
+205,Lotus,Italian Grand Prix,853,21076,2011,21073,20,13
+205,Lotus,Italian Grand Prix,853,21077,2011,21074,19,14
+166,Virgin,Italian Grand Prix,853,21078,2011,21075,21,15
+164,HRT,Italian Grand Prix,853,21079,2011,21076,23,16
+15,Sauber,Italian Grand Prix,853,21080,2011,21077,15,17
+15,Sauber,Italian Grand Prix,853,21081,2011,21078,17,18
+10,Force India,Italian Grand Prix,853,21082,2011,21079,12,19
+9,Red Bull,Italian Grand Prix,853,21083,2011,21080,5,20
+166,Virgin,Italian Grand Prix,853,21084,2011,21081,22,21
+4,Renault,Italian Grand Prix,853,21085,2011,21082,7,22
+131,Mercedes,Italian Grand Prix,853,21086,2011,21083,9,23
+164,HRT,Italian Grand Prix,853,21087,2011,21084,24,24
+1,McLaren,Abu Dhabi Grand Prix,858,21184,2011,21181,2,1
+6,Ferrari,Abu Dhabi Grand Prix,858,21185,2011,21182,5,2
+1,McLaren,Abu Dhabi Grand Prix,858,21186,2011,21183,3,3
+9,Red Bull,Abu Dhabi Grand Prix,858,21187,2011,21184,4,4
+6,Ferrari,Abu Dhabi Grand Prix,858,21188,2011,21185,6,5
+131,Mercedes,Abu Dhabi Grand Prix,858,21189,2011,21186,7,6
+131,Mercedes,Abu Dhabi Grand Prix,858,21190,2011,21187,8,7
+10,Force India,Abu Dhabi Grand Prix,858,21191,2011,21188,9,8
+10,Force India,Abu Dhabi Grand Prix,858,21192,2011,21189,10,9
+15,Sauber,Abu Dhabi Grand Prix,858,21193,2011,21190,16,10
+15,Sauber,Abu Dhabi Grand Prix,858,21194,2011,21191,11,11
+3,Williams,Abu Dhabi Grand Prix,858,21195,2011,21192,24,12
+4,Renault,Abu Dhabi Grand Prix,858,21196,2011,21193,12,13
+3,Williams,Abu Dhabi Grand Prix,858,21197,2011,21194,23,14
+5,Toro Rosso,Abu Dhabi Grand Prix,858,21198,2011,21195,15,15
+4,Renault,Abu Dhabi Grand Prix,858,21199,2011,21196,14,16
+205,Lotus,Abu Dhabi Grand Prix,858,21200,2011,21197,17,17
+205,Lotus,Abu Dhabi Grand Prix,858,21201,2011,21198,18,18
+166,Virgin,Abu Dhabi Grand Prix,858,21202,2011,21199,19,19
+164,HRT,Abu Dhabi Grand Prix,858,21203,2011,21200,22,20
+164,HRT,Abu Dhabi Grand Prix,858,21204,2011,21201,20,21
+5,Toro Rosso,Abu Dhabi Grand Prix,858,21205,2011,21202,13,22
+166,Virgin,Abu Dhabi Grand Prix,858,21206,2011,21203,21,23
+9,Red Bull,Abu Dhabi Grand Prix,858,21207,2011,21204,1,24
+9,Red Bull,Bahrain Grand Prix,863,21304,2012,21301,1,1
+208,Lotus F1,Bahrain Grand Prix,863,21305,2012,21302,11,2
+208,Lotus F1,Bahrain Grand Prix,863,21306,2012,21303,7,3
+9,Red Bull,Bahrain Grand Prix,863,21307,2012,21304,3,4
+131,Mercedes,Bahrain Grand Prix,863,21308,2012,21305,5,5
+10,Force India,Bahrain Grand Prix,863,21309,2012,21306,10,6
+6,Ferrari,Bahrain Grand Prix,863,21310,2012,21307,9,7
+1,McLaren,Bahrain Grand Prix,863,21311,2012,21308,2,8
+6,Ferrari,Bahrain Grand Prix,863,21312,2012,21309,14,9
+131,Mercedes,Bahrain Grand Prix,863,21313,2012,21310,22,10
+15,Sauber,Bahrain Grand Prix,863,21314,2012,21311,8,11
+10,Force India,Bahrain Grand Prix,863,21315,2012,21312,13,12
+15,Sauber,Bahrain Grand Prix,863,21316,2012,21313,12,13
+5,Toro Rosso,Bahrain Grand Prix,863,21317,2012,21314,17,14
+5,Toro Rosso,Bahrain Grand Prix,863,21318,2012,21315,6,15
+207,Caterham,Bahrain Grand Prix,863,21319,2012,21316,18,16
+207,Caterham,Bahrain Grand Prix,863,21320,2012,21317,16,17
+1,McLaren,Bahrain Grand Prix,863,21321,2012,21318,4,18
+206,Marussia,Bahrain Grand Prix,863,21322,2012,21319,23,19
+164,HRT,Bahrain Grand Prix,863,21323,2012,21320,20,20
+164,HRT,Bahrain Grand Prix,863,21324,2012,21321,24,21
+3,Williams,Bahrain Grand Prix,863,21325,2012,21322,15,22
+3,Williams,Bahrain Grand Prix,863,21326,2012,21323,21,23
+206,Marussia,Bahrain Grand Prix,863,21327,2012,21324,19,24
+3,Williams,Spanish Grand Prix,864,21328,2012,21325,1,1
+6,Ferrari,Spanish Grand Prix,864,21329,2012,21326,2,2
+208,Lotus F1,Spanish Grand Prix,864,21330,2012,21327,4,3
+208,Lotus F1,Spanish Grand Prix,864,21331,2012,21328,3,4
+15,Sauber,Spanish Grand Prix,864,21332,2012,21329,9,5
+9,Red Bull,Spanish Grand Prix,864,21333,2012,21330,7,6
+131,Mercedes,Spanish Grand Prix,864,21334,2012,21331,6,7
+1,McLaren,Spanish Grand Prix,864,21335,2012,21332,24,8
+1,McLaren,Spanish Grand Prix,864,21336,2012,21333,10,9
+10,Force India,Spanish Grand Prix,864,21337,2012,21334,13,10
+9,Red Bull,Spanish Grand Prix,864,21338,2012,21335,11,11
+5,Toro Rosso,Spanish Grand Prix,864,21339,2012,21336,14,12
+5,Toro Rosso,Spanish Grand Prix,864,21340,2012,21337,15,13
+10,Force India,Spanish Grand Prix,864,21341,2012,21338,12,14
+6,Ferrari,Spanish Grand Prix,864,21342,2012,21339,16,15
+207,Caterham,Spanish Grand Prix,864,21343,2012,21340,19,16
+207,Caterham,Spanish Grand Prix,864,21344,2012,21341,18,17
+206,Marussia,Spanish Grand Prix,864,21345,2012,21342,21,18
+164,HRT,Spanish Grand Prix,864,21346,2012,21343,22,19
+15,Sauber,Spanish Grand Prix,864,21347,2012,21344,5,20
+206,Marussia,Spanish Grand Prix,864,21348,2012,21345,20,21
+164,HRT,Spanish Grand Prix,864,21349,2012,21346,23,22
+3,Williams,Spanish Grand Prix,864,21350,2012,21347,17,23
+131,Mercedes,Spanish Grand Prix,864,21351,2012,21348,8,24
+9,Red Bull,British Grand Prix,868,21424,2012,21421,2,1
+6,Ferrari,British Grand Prix,868,21425,2012,21422,1,2
+9,Red Bull,British Grand Prix,868,21426,2012,21423,4,3
+6,Ferrari,British Grand Prix,868,21427,2012,21424,5,4
+208,Lotus F1,British Grand Prix,868,21428,2012,21425,6,5
+208,Lotus F1,British Grand Prix,868,21429,2012,21426,9,6
+131,Mercedes,British Grand Prix,868,21430,2012,21427,3,7
+1,McLaren,British Grand Prix,868,21431,2012,21428,8,8
+3,Williams,British Grand Prix,868,21432,2012,21429,13,9
+1,McLaren,British Grand Prix,868,21433,2012,21430,16,10
+15,Sauber,British Grand Prix,868,21434,2012,21431,17,11
+10,Force India,British Grand Prix,868,21435,2012,21432,14,12
+5,Toro Rosso,British Grand Prix,868,21436,2012,21433,12,13
+5,Toro Rosso,British Grand Prix,868,21437,2012,21434,23,14
+131,Mercedes,British Grand Prix,868,21438,2012,21435,11,15
+3,Williams,British Grand Prix,868,21439,2012,21436,7,16
+207,Caterham,British Grand Prix,868,21440,2012,21437,19,17
+206,Marussia,British Grand Prix,868,21441,2012,21438,20,18
+206,Marussia,British Grand Prix,868,21442,2012,21439,24,19
+164,HRT,British Grand Prix,868,21443,2012,21440,21,20
+164,HRT,British Grand Prix,868,21444,2012,21441,22,21
+15,Sauber,British Grand Prix,868,21445,2012,21442,15,22
+10,Force India,British Grand Prix,868,21446,2012,21443,10,23
+207,Caterham,British Grand Prix,868,21447,2012,21444,18,24
+1,McLaren,Hungarian Grand Prix,870,21472,2012,21469,1,1
+208,Lotus F1,Hungarian Grand Prix,870,21473,2012,21470,5,2
+208,Lotus F1,Hungarian Grand Prix,870,21474,2012,21471,2,3
+9,Red Bull,Hungarian Grand Prix,870,21475,2012,21472,3,4
+6,Ferrari,Hungarian Grand Prix,870,21476,2012,21473,6,5
+1,McLaren,Hungarian Grand Prix,870,21477,2012,21474,4,6
+3,Williams,Hungarian Grand Prix,870,21478,2012,21475,9,7
+9,Red Bull,Hungarian Grand Prix,870,21479,2012,21476,11,8
+6,Ferrari,Hungarian Grand Prix,870,21480,2012,21477,7,9
+131,Mercedes,Hungarian Grand Prix,870,21481,2012,21478,13,10
+10,Force India,Hungarian Grand Prix,870,21482,2012,21479,10,11
+10,Force India,Hungarian Grand Prix,870,21483,2012,21480,12,12
+3,Williams,Hungarian Grand Prix,870,21484,2012,21481,8,13
+15,Sauber,Hungarian Grand Prix,870,21485,2012,21482,14,14
+5,Toro Rosso,Hungarian Grand Prix,870,21486,2012,21483,18,15
+5,Toro Rosso,Hungarian Grand Prix,870,21487,2012,21484,16,16
+207,Caterham,Hungarian Grand Prix,870,21488,2012,21485,19,17
+15,Sauber,Hungarian Grand Prix,870,21489,2012,21486,15,18
+207,Caterham,Hungarian Grand Prix,870,21490,2012,21487,20,19
+206,Marussia,Hungarian Grand Prix,870,21491,2012,21488,21,20
+206,Marussia,Hungarian Grand Prix,870,21492,2012,21489,22,21
+164,HRT,Hungarian Grand Prix,870,21493,2012,21490,23,22
+164,HRT,Hungarian Grand Prix,870,21494,2012,21491,24,23
+131,Mercedes,Hungarian Grand Prix,870,21495,2012,21492,17,24
+1,McLaren,Belgian Grand Prix,871,21496,2012,21493,1,1
+9,Red Bull,Belgian Grand Prix,871,21497,2012,21494,10,2
+208,Lotus F1,Belgian Grand Prix,871,21498,2012,21495,3,3
+10,Force India,Belgian Grand Prix,871,21499,2012,21496,11,4
+6,Ferrari,Belgian Grand Prix,871,21500,2012,21497,14,5
+9,Red Bull,Belgian Grand Prix,871,21501,2012,21498,12,6
+131,Mercedes,Belgian Grand Prix,871,21502,2012,21499,13,7
+5,Toro Rosso,Belgian Grand Prix,871,21503,2012,21500,15,8
+5,Toro Rosso,Belgian Grand Prix,871,21504,2012,21501,16,9
+10,Force India,Belgian Grand Prix,871,21505,2012,21502,9,10
+131,Mercedes,Belgian Grand Prix,871,21506,2012,21503,23,11
+3,Williams,Belgian Grand Prix,871,21507,2012,21504,17,12
+15,Sauber,Belgian Grand Prix,871,21508,2012,21505,2,13
+207,Caterham,Belgian Grand Prix,871,21509,2012,21506,19,14
+206,Marussia,Belgian Grand Prix,871,21510,2012,21507,20,15
+206,Marussia,Belgian Grand Prix,871,21511,2012,21508,22,16
+207,Caterham,Belgian Grand Prix,871,21512,2012,21509,18,17
+164,HRT,Belgian Grand Prix,871,21513,2012,21510,21,18
+164,HRT,Belgian Grand Prix,871,21514,2012,21511,24,19
+3,Williams,Belgian Grand Prix,871,21515,2012,21512,6,20
+15,Sauber,Belgian Grand Prix,871,21516,2012,21513,4,21
+6,Ferrari,Belgian Grand Prix,871,21517,2012,21514,5,22
+1,McLaren,Belgian Grand Prix,871,21518,2012,21515,7,23
+208,Lotus F1,Belgian Grand Prix,871,21519,2012,21516,8,24
+1,McLaren,Italian Grand Prix,872,21520,2012,21517,1,1
+15,Sauber,Italian Grand Prix,872,21521,2012,21518,12,2
+6,Ferrari,Italian Grand Prix,872,21522,2012,21519,10,3
+6,Ferrari,Italian Grand Prix,872,21523,2012,21520,3,4
+208,Lotus F1,Italian Grand Prix,872,21524,2012,21521,7,5
+131,Mercedes,Italian Grand Prix,872,21525,2012,21522,4,6
+131,Mercedes,Italian Grand Prix,872,21526,2012,21523,6,7
+10,Force India,Italian Grand Prix,872,21527,2012,21524,9,8
+15,Sauber,Italian Grand Prix,872,21528,2012,21525,8,9
+3,Williams,Italian Grand Prix,872,21529,2012,21526,13,10
+3,Williams,Italian Grand Prix,872,21530,2012,21527,22,11
+5,Toro Rosso,Italian Grand Prix,872,21531,2012,21528,14,12
+208,Lotus F1,Italian Grand Prix,872,21532,2012,21529,15,13
+207,Caterham,Italian Grand Prix,872,21533,2012,21530,17,14
+207,Caterham,Italian Grand Prix,872,21534,2012,21531,18,15
+206,Marussia,Italian Grand Prix,872,21535,2012,21532,20,16
+206,Marussia,Italian Grand Prix,872,21536,2012,21533,19,17
+164,HRT,Italian Grand Prix,872,21537,2012,21534,23,18
+164,HRT,Italian Grand Prix,872,21538,2012,21535,21,19
+9,Red Bull,Italian Grand Prix,872,21539,2012,21536,11,20
+10,Force India,Italian Grand Prix,872,21540,2012,21537,24,21
+9,Red Bull,Italian Grand Prix,872,21541,2012,21538,5,22
+1,McLaren,Italian Grand Prix,872,21542,2012,21539,2,23
+5,Toro Rosso,Italian Grand Prix,872,21543,2012,21540,16,24
+208,Lotus F1,Abu Dhabi Grand Prix,877,21640,2012,21637,4,1
+6,Ferrari,Abu Dhabi Grand Prix,877,21641,2012,21638,6,2
+9,Red Bull,Abu Dhabi Grand Prix,877,21642,2012,21639,24,3
+1,McLaren,Abu Dhabi Grand Prix,877,21643,2012,21640,5,4
+3,Williams,Abu Dhabi Grand Prix,877,21644,2012,21641,3,5
+15,Sauber,Abu Dhabi Grand Prix,877,21645,2012,21642,15,6
+6,Ferrari,Abu Dhabi Grand Prix,877,21646,2012,21643,8,7
+3,Williams,Abu Dhabi Grand Prix,877,21647,2012,21644,14,8
+10,Force India,Abu Dhabi Grand Prix,877,21648,2012,21645,12,9
+5,Toro Rosso,Abu Dhabi Grand Prix,877,21649,2012,21646,16,10
+131,Mercedes,Abu Dhabi Grand Prix,877,21650,2012,21647,13,11
+5,Toro Rosso,Abu Dhabi Grand Prix,877,21651,2012,21648,17,12
+207,Caterham,Abu Dhabi Grand Prix,877,21652,2012,21649,18,13
+206,Marussia,Abu Dhabi Grand Prix,877,21653,2012,21650,21,14
+15,Sauber,Abu Dhabi Grand Prix,877,21654,2012,21651,11,15
+207,Caterham,Abu Dhabi Grand Prix,877,21655,2012,21652,20,16
+164,HRT,Abu Dhabi Grand Prix,877,21656,2012,21653,22,17
+206,Marussia,Abu Dhabi Grand Prix,877,21657,2012,21654,19,18
+208,Lotus F1,Abu Dhabi Grand Prix,877,21658,2012,21655,9,19
+9,Red Bull,Abu Dhabi Grand Prix,877,21659,2012,21656,2,20
+1,McLaren,Abu Dhabi Grand Prix,877,21660,2012,21657,1,21
+164,HRT,Abu Dhabi Grand Prix,877,21661,2012,21658,23,22
+131,Mercedes,Abu Dhabi Grand Prix,877,21662,2012,21659,7,23
+10,Force India,Abu Dhabi Grand Prix,877,21663,2012,21660,10,24
+9,Red Bull,Bahrain Grand Prix,883,21778,2013,21775,2,1
+208,Lotus F1,Bahrain Grand Prix,883,21779,2013,21776,8,2
+208,Lotus F1,Bahrain Grand Prix,883,21780,2013,21777,11,3
+10,Force India,Bahrain Grand Prix,883,21781,2013,21778,5,4
+131,Mercedes,Bahrain Grand Prix,883,21782,2013,21779,9,5
+1,McLaren,Bahrain Grand Prix,883,21783,2013,21780,12,6
+9,Red Bull,Bahrain Grand Prix,883,21784,2013,21781,7,7
+6,Ferrari,Bahrain Grand Prix,883,21785,2013,21782,3,8
+131,Mercedes,Bahrain Grand Prix,883,21786,2013,21783,1,9
+1,McLaren,Bahrain Grand Prix,883,21787,2013,21784,10,10
+3,Williams,Bahrain Grand Prix,883,21788,2013,21785,17,11
+15,Sauber,Bahrain Grand Prix,883,21789,2013,21786,14,12
+10,Force India,Bahrain Grand Prix,883,21790,2013,21787,6,13
+3,Williams,Bahrain Grand Prix,883,21791,2013,21788,15,14
+6,Ferrari,Bahrain Grand Prix,883,21792,2013,21789,4,15
+5,Toro Rosso,Bahrain Grand Prix,883,21793,2013,21790,13,16
+207,Caterham,Bahrain Grand Prix,883,21794,2013,21791,18,17
+15,Sauber,Bahrain Grand Prix,883,21795,2013,21792,22,18
+206,Marussia,Bahrain Grand Prix,883,21796,2013,21793,19,19
+206,Marussia,Bahrain Grand Prix,883,21797,2013,21794,21,20
+207,Caterham,Bahrain Grand Prix,883,21798,2013,21795,20,21
+5,Toro Rosso,Bahrain Grand Prix,883,21799,2013,21796,16,22
+6,Ferrari,Spanish Grand Prix,884,21800,2013,21797,5,1
+208,Lotus F1,Spanish Grand Prix,884,21801,2013,21798,4,2
+6,Ferrari,Spanish Grand Prix,884,21802,2013,21799,9,3
+9,Red Bull,Spanish Grand Prix,884,21803,2013,21800,3,4
+9,Red Bull,Spanish Grand Prix,884,21804,2013,21801,7,5
+131,Mercedes,Spanish Grand Prix,884,21805,2013,21802,1,6
+10,Force India,Spanish Grand Prix,884,21806,2013,21803,10,7
+1,McLaren,Spanish Grand Prix,884,21807,2013,21804,14,8
+1,McLaren,Spanish Grand Prix,884,21808,2013,21805,8,9
+5,Toro Rosso,Spanish Grand Prix,884,21809,2013,21806,11,10
+15,Sauber,Spanish Grand Prix,884,21810,2013,21807,19,11
+131,Mercedes,Spanish Grand Prix,884,21811,2013,21808,2,12
+10,Force India,Spanish Grand Prix,884,21812,2013,21809,13,13
+3,Williams,Spanish Grand Prix,884,21813,2013,21810,17,14
+15,Sauber,Spanish Grand Prix,884,21814,2013,21811,15,15
+3,Williams,Spanish Grand Prix,884,21815,2013,21812,16,16
+207,Caterham,Spanish Grand Prix,884,21816,2013,21813,22,17
+206,Marussia,Spanish Grand Prix,884,21817,2013,21814,20,18
+206,Marussia,Spanish Grand Prix,884,21818,2013,21815,21,19
+5,Toro Rosso,Spanish Grand Prix,884,21819,2013,21816,12,20
+207,Caterham,Spanish Grand Prix,884,21820,2013,21817,18,21
+208,Lotus F1,Spanish Grand Prix,884,21821,2013,21818,6,22
+131,Mercedes,British Grand Prix,887,21866,2013,21863,2,1
+9,Red Bull,British Grand Prix,887,21867,2013,21864,4,2
+6,Ferrari,British Grand Prix,887,21868,2013,21865,9,3
+131,Mercedes,British Grand Prix,887,21869,2013,21866,1,4
+208,Lotus F1,British Grand Prix,887,21870,2013,21867,8,5
+6,Ferrari,British Grand Prix,887,21871,2013,21868,11,6
+10,Force India,British Grand Prix,887,21872,2013,21869,6,7
+5,Toro Rosso,British Grand Prix,887,21873,2013,21870,5,8
+10,Force India,British Grand Prix,887,21874,2013,21871,21,9
+15,Sauber,British Grand Prix,887,21875,2013,21872,14,10
+3,Williams,British Grand Prix,887,21876,2013,21873,15,11
+3,Williams,British Grand Prix,887,21877,2013,21874,16,12
+1,McLaren,British Grand Prix,887,21878,2013,21875,10,13
+15,Sauber,British Grand Prix,887,21879,2013,21876,17,14
+207,Caterham,British Grand Prix,887,21880,2013,21877,18,15
+206,Marussia,British Grand Prix,887,21881,2013,21878,19,16
+206,Marussia,British Grand Prix,887,21882,2013,21879,20,17
+207,Caterham,British Grand Prix,887,21883,2013,21880,22,18
+208,Lotus F1,British Grand Prix,887,21884,2013,21881,7,19
+1,McLaren,British Grand Prix,887,21885,2013,21882,13,20
+9,Red Bull,British Grand Prix,887,21886,2013,21883,3,21
+5,Toro Rosso,British Grand Prix,887,21887,2013,21884,12,22
+131,Mercedes,Hungarian Grand Prix,890,21910,2013,21907,1,1
+208,Lotus F1,Hungarian Grand Prix,890,21911,2013,21908,6,2
+9,Red Bull,Hungarian Grand Prix,890,21912,2013,21909,2,3
+9,Red Bull,Hungarian Grand Prix,890,21913,2013,21910,10,4
+6,Ferrari,Hungarian Grand Prix,890,21914,2013,21911,5,5
+208,Lotus F1,Hungarian Grand Prix,890,21915,2013,21912,3,6
+1,McLaren,Hungarian Grand Prix,890,21916,2013,21913,13,7
+6,Ferrari,Hungarian Grand Prix,890,21917,2013,21914,7,8
+1,McLaren,Hungarian Grand Prix,890,21918,2013,21915,9,9
+3,Williams,Hungarian Grand Prix,890,21919,2013,21916,15,10
+15,Sauber,Hungarian Grand Prix,890,21920,2013,21917,12,11
+5,Toro Rosso,Hungarian Grand Prix,890,21921,2013,21918,14,12
+5,Toro Rosso,Hungarian Grand Prix,890,21922,2013,21919,8,13
+207,Caterham,Hungarian Grand Prix,890,21923,2013,21920,20,14
+207,Caterham,Hungarian Grand Prix,890,21924,2013,21921,19,15
+206,Marussia,Hungarian Grand Prix,890,21925,2013,21922,21,16
+206,Marussia,Hungarian Grand Prix,890,21926,2013,21923,22,17
+10,Force India,Hungarian Grand Prix,890,21927,2013,21924,18,18
+131,Mercedes,Hungarian Grand Prix,890,21928,2013,21925,4,19
+3,Williams,Hungarian Grand Prix,890,21929,2013,21926,16,20
+15,Sauber,Hungarian Grand Prix,890,21930,2013,21927,17,21
+10,Force India,Hungarian Grand Prix,890,21931,2013,21928,11,22
+9,Red Bull,Belgian Grand Prix,891,21932,2013,21929,2,1
+6,Ferrari,Belgian Grand Prix,891,21933,2013,21930,9,2
+131,Mercedes,Belgian Grand Prix,891,21934,2013,21931,1,3
+131,Mercedes,Belgian Grand Prix,891,21935,2013,21932,4,4
+9,Red Bull,Belgian Grand Prix,891,21936,2013,21933,3,5
+1,McLaren,Belgian Grand Prix,891,21937,2013,21934,6,6
+6,Ferrari,Belgian Grand Prix,891,21938,2013,21935,10,7
+208,Lotus F1,Belgian Grand Prix,891,21939,2013,21936,7,8
+10,Force India,Belgian Grand Prix,891,21940,2013,21937,12,9
+5,Toro Rosso,Belgian Grand Prix,891,21941,2013,21938,19,10
+1,McLaren,Belgian Grand Prix,891,21942,2013,21939,13,11
+5,Toro Rosso,Belgian Grand Prix,891,21943,2013,21940,18,12
+15,Sauber,Belgian Grand Prix,891,21944,2013,21941,11,13
+15,Sauber,Belgian Grand Prix,891,21945,2013,21942,21,14
+3,Williams,Belgian Grand Prix,891,21946,2013,21943,20,15
+207,Caterham,Belgian Grand Prix,891,21947,2013,21944,14,16
+3,Williams,Belgian Grand Prix,891,21948,2013,21945,17,17
+206,Marussia,Belgian Grand Prix,891,21949,2013,21946,15,18
+206,Marussia,Belgian Grand Prix,891,21950,2013,21947,16,19
+10,Force India,Belgian Grand Prix,891,21951,2013,21948,5,20
+208,Lotus F1,Belgian Grand Prix,891,21952,2013,21949,8,21
+207,Caterham,Belgian Grand Prix,891,21953,2013,21950,22,22
+9,Red Bull,Italian Grand Prix,892,21954,2013,21951,1,1
+6,Ferrari,Italian Grand Prix,892,21955,2013,21952,5,2
+9,Red Bull,Italian Grand Prix,892,21956,2013,21953,2,3
+6,Ferrari,Italian Grand Prix,892,21957,2013,21954,4,4
+15,Sauber,Italian Grand Prix,892,21958,2013,21955,3,5
+131,Mercedes,Italian Grand Prix,892,21959,2013,21956,6,6
+5,Toro Rosso,Italian Grand Prix,892,21960,2013,21957,7,7
+208,Lotus F1,Italian Grand Prix,892,21961,2013,21958,13,8
+131,Mercedes,Italian Grand Prix,892,21962,2013,21959,12,9
+1,McLaren,Italian Grand Prix,892,21963,2013,21960,9,10
+208,Lotus F1,Italian Grand Prix,892,21964,2013,21961,11,11
+1,McLaren,Italian Grand Prix,892,21965,2013,21962,8,12
+15,Sauber,Italian Grand Prix,892,21966,2013,21963,16,13
+3,Williams,Italian Grand Prix,892,21967,2013,21964,14,14
+3,Williams,Italian Grand Prix,892,21968,2013,21965,18,15
+10,Force India,Italian Grand Prix,892,21969,2013,21966,17,16
+207,Caterham,Italian Grand Prix,892,21970,2013,21967,20,17
+207,Caterham,Italian Grand Prix,892,21971,2013,21968,19,18
+206,Marussia,Italian Grand Prix,892,21972,2013,21969,21,19
+206,Marussia,Italian Grand Prix,892,21973,2013,21970,22,20
+5,Toro Rosso,Italian Grand Prix,892,21974,2013,21971,10,21
+10,Force India,Italian Grand Prix,892,21975,2013,21972,15,22
+9,Red Bull,Abu Dhabi Grand Prix,897,22064,2013,22061,2,1
+9,Red Bull,Abu Dhabi Grand Prix,897,22065,2013,22062,1,2
+131,Mercedes,Abu Dhabi Grand Prix,897,22066,2013,22063,3,3
+208,Lotus F1,Abu Dhabi Grand Prix,897,22067,2013,22064,6,4
+6,Ferrari,Abu Dhabi Grand Prix,897,22068,2013,22065,10,5
+10,Force India,Abu Dhabi Grand Prix,897,22069,2013,22066,11,6
+131,Mercedes,Abu Dhabi Grand Prix,897,22070,2013,22067,4,7
+6,Ferrari,Abu Dhabi Grand Prix,897,22071,2013,22068,7,8
+1,McLaren,Abu Dhabi Grand Prix,897,22072,2013,22069,8,9
+10,Force India,Abu Dhabi Grand Prix,897,22073,2013,22070,17,10
+3,Williams,Abu Dhabi Grand Prix,897,22074,2013,22071,14,11
+1,McLaren,Abu Dhabi Grand Prix,897,22075,2013,22072,12,12
+15,Sauber,Abu Dhabi Grand Prix,897,22076,2013,22073,16,13
+15,Sauber,Abu Dhabi Grand Prix,897,22077,2013,22074,5,14
+3,Williams,Abu Dhabi Grand Prix,897,22078,2013,22075,15,15
+5,Toro Rosso,Abu Dhabi Grand Prix,897,22079,2013,22076,9,16
+5,Toro Rosso,Abu Dhabi Grand Prix,897,22080,2013,22077,13,17
+207,Caterham,Abu Dhabi Grand Prix,897,22081,2013,22078,18,18
+207,Caterham,Abu Dhabi Grand Prix,897,22082,2013,22079,19,19
+206,Marussia,Abu Dhabi Grand Prix,897,22083,2013,22080,21,20
+206,Marussia,Abu Dhabi Grand Prix,897,22084,2013,22081,20,21
+208,Lotus F1,Abu Dhabi Grand Prix,897,22085,2013,22082,22,22
+131,Mercedes,Bahrain Grand Prix,902,22174,2014,22171,2,1
+131,Mercedes,Bahrain Grand Prix,902,22175,2014,22172,1,2
+10,Force India,Bahrain Grand Prix,902,22176,2014,22173,4,3
+9,Red Bull,Bahrain Grand Prix,902,22177,2014,22174,13,4
+10,Force India,Bahrain Grand Prix,902,22178,2014,22175,11,5
+9,Red Bull,Bahrain Grand Prix,902,22179,2014,22176,10,6
+3,Williams,Bahrain Grand Prix,902,22180,2014,22177,7,7
+3,Williams,Bahrain Grand Prix,902,22181,2014,22178,3,8
+6,Ferrari,Bahrain Grand Prix,902,22182,2014,22179,9,9
+6,Ferrari,Bahrain Grand Prix,902,22183,2014,22180,5,10
+5,Toro Rosso,Bahrain Grand Prix,902,22184,2014,22181,12,11
+208,Lotus F1,Bahrain Grand Prix,902,22185,2014,22182,16,12
+206,Marussia,Bahrain Grand Prix,902,22186,2014,22183,21,13
+208,Lotus F1,Bahrain Grand Prix,902,22187,2014,22184,17,14
+207,Caterham,Bahrain Grand Prix,902,22188,2014,22185,18,15
+206,Marussia,Bahrain Grand Prix,902,22189,2014,22186,19,16
+1,McLaren,Bahrain Grand Prix,902,22190,2014,22187,6,17
+1,McLaren,Bahrain Grand Prix,902,22191,2014,22188,8,18
+15,Sauber,Bahrain Grand Prix,902,22192,2014,22189,15,19
+207,Caterham,Bahrain Grand Prix,902,22193,2014,22190,20,20
+5,Toro Rosso,Bahrain Grand Prix,902,22194,2014,22191,14,21
+15,Sauber,Bahrain Grand Prix,902,22195,2014,22192,22,22
+131,Mercedes,Spanish Grand Prix,904,22218,2014,22215,1,1
+131,Mercedes,Spanish Grand Prix,904,22219,2014,22216,2,2
+9,Red Bull,Spanish Grand Prix,904,22220,2014,22217,3,3
+9,Red Bull,Spanish Grand Prix,904,22221,2014,22218,15,4
+3,Williams,Spanish Grand Prix,904,22222,2014,22219,4,5
+6,Ferrari,Spanish Grand Prix,904,22223,2014,22220,7,6
+6,Ferrari,Spanish Grand Prix,904,22224,2014,22221,6,7
+208,Lotus F1,Spanish Grand Prix,904,22225,2014,22222,5,8
+10,Force India,Spanish Grand Prix,904,22226,2014,22223,11,9
+10,Force India,Spanish Grand Prix,904,22227,2014,22224,10,10
+1,McLaren,Spanish Grand Prix,904,22228,2014,22225,8,11
+1,McLaren,Spanish Grand Prix,904,22229,2014,22226,14,12
+3,Williams,Spanish Grand Prix,904,22230,2014,22227,9,13
+5,Toro Rosso,Spanish Grand Prix,904,22231,2014,22228,12,14
+208,Lotus F1,Spanish Grand Prix,904,22232,2014,22229,22,15
+15,Sauber,Spanish Grand Prix,904,22233,2014,22230,13,16
+15,Sauber,Spanish Grand Prix,904,22234,2014,22231,16,17
+206,Marussia,Spanish Grand Prix,904,22235,2014,22232,18,18
+206,Marussia,Spanish Grand Prix,904,22236,2014,22233,17,19
+207,Caterham,Spanish Grand Prix,904,22237,2014,22234,19,20
+207,Caterham,Spanish Grand Prix,904,22238,2014,22235,20,21
+5,Toro Rosso,Spanish Grand Prix,904,22239,2014,22236,21,22
+131,Mercedes,Austrian Grand Prix,907,22284,2014,22281,3,1
+131,Mercedes,Austrian Grand Prix,907,22285,2014,22282,9,2
+3,Williams,Austrian Grand Prix,907,22286,2014,22283,2,3
+3,Williams,Austrian Grand Prix,907,22287,2014,22284,1,4
+6,Ferrari,Austrian Grand Prix,907,22288,2014,22285,4,5
+10,Force India,Austrian Grand Prix,907,22289,2014,22286,15,6
+1,McLaren,Austrian Grand Prix,907,22290,2014,22287,6,7
+9,Red Bull,Austrian Grand Prix,907,22291,2014,22288,5,8
+10,Force India,Austrian Grand Prix,907,22292,2014,22289,10,9
+6,Ferrari,Austrian Grand Prix,907,22293,2014,22290,8,10
+1,McLaren,Austrian Grand Prix,907,22294,2014,22291,11,11
+208,Lotus F1,Austrian Grand Prix,907,22295,2014,22292,13,12
+15,Sauber,Austrian Grand Prix,907,22296,2014,22293,16,13
+208,Lotus F1,Austrian Grand Prix,907,22297,2014,22294,22,14
+206,Marussia,Austrian Grand Prix,907,22298,2014,22295,18,15
+207,Caterham,Austrian Grand Prix,907,22299,2014,22296,19,16
+206,Marussia,Austrian Grand Prix,907,22300,2014,22297,21,17
+207,Caterham,Austrian Grand Prix,907,22301,2014,22298,20,18
+15,Sauber,Austrian Grand Prix,907,22302,2014,22299,17,19
+5,Toro Rosso,Austrian Grand Prix,907,22303,2014,22300,14,20
+9,Red Bull,Austrian Grand Prix,907,22304,2014,22301,12,21
+5,Toro Rosso,Austrian Grand Prix,907,22305,2014,22302,7,22
+131,Mercedes,British Grand Prix,908,22306,2014,22303,6,1
+3,Williams,British Grand Prix,908,22307,2014,22304,14,2
+9,Red Bull,British Grand Prix,908,22308,2014,22305,8,3
+1,McLaren,British Grand Prix,908,22309,2014,22306,3,4
+9,Red Bull,British Grand Prix,908,22310,2014,22307,2,5
+6,Ferrari,British Grand Prix,908,22311,2014,22308,16,6
+1,McLaren,British Grand Prix,908,22312,2014,22309,5,7
+10,Force India,British Grand Prix,908,22313,2014,22310,4,8
+5,Toro Rosso,British Grand Prix,908,22314,2014,22311,9,9
+5,Toro Rosso,British Grand Prix,908,22315,2014,22312,10,10
+10,Force India,British Grand Prix,908,22316,2014,22313,7,11
+208,Lotus F1,British Grand Prix,908,22317,2014,22314,11,12
+15,Sauber,British Grand Prix,908,22318,2014,22315,13,13
+206,Marussia,British Grand Prix,908,22319,2014,22316,12,14
+207,Caterham,British Grand Prix,908,22320,2014,22317,22,15
+206,Marussia,British Grand Prix,908,22321,2014,22318,17,16
+208,Lotus F1,British Grand Prix,908,22322,2014,22319,20,17
+131,Mercedes,British Grand Prix,908,22323,2014,22320,1,18
+207,Caterham,British Grand Prix,908,22324,2014,22321,21,19
+15,Sauber,British Grand Prix,908,22325,2014,22322,19,20
+3,Williams,British Grand Prix,908,22326,2014,22323,15,21
+6,Ferrari,British Grand Prix,908,22327,2014,22324,18,22
+9,Red Bull,Hungarian Grand Prix,910,22350,2014,22347,4,1
+6,Ferrari,Hungarian Grand Prix,910,22351,2014,22348,5,2
+131,Mercedes,Hungarian Grand Prix,910,22352,2014,22349,22,3
+131,Mercedes,Hungarian Grand Prix,910,22353,2014,22350,1,4
+3,Williams,Hungarian Grand Prix,910,22354,2014,22351,6,5
+6,Ferrari,Hungarian Grand Prix,910,22355,2014,22352,16,6
+9,Red Bull,Hungarian Grand Prix,910,22356,2014,22353,2,7
+3,Williams,Hungarian Grand Prix,910,22357,2014,22354,3,8
+5,Toro Rosso,Hungarian Grand Prix,910,22358,2014,22355,8,9
+1,McLaren,Hungarian Grand Prix,910,22359,2014,22356,7,10
+15,Sauber,Hungarian Grand Prix,910,22360,2014,22357,11,11
+1,McLaren,Hungarian Grand Prix,910,22361,2014,22358,21,12
+208,Lotus F1,Hungarian Grand Prix,910,22362,2014,22359,20,13
+5,Toro Rosso,Hungarian Grand Prix,910,22363,2014,22360,10,14
+206,Marussia,Hungarian Grand Prix,910,22364,2014,22361,15,15
+206,Marussia,Hungarian Grand Prix,910,22365,2014,22362,18,16
+15,Sauber,Hungarian Grand Prix,910,22366,2014,22363,13,17
+207,Caterham,Hungarian Grand Prix,910,22367,2014,22364,17,18
+10,Force India,Hungarian Grand Prix,910,22368,2014,22365,12,19
+10,Force India,Hungarian Grand Prix,910,22369,2014,22366,9,20
+208,Lotus F1,Hungarian Grand Prix,910,22370,2014,22367,14,21
+207,Caterham,Hungarian Grand Prix,910,22371,2014,22368,19,22
+9,Red Bull,Belgian Grand Prix,911,22373,2014,22369,5,1
+131,Mercedes,Belgian Grand Prix,911,22374,2014,22370,1,2
+3,Williams,Belgian Grand Prix,911,22375,2014,22371,6,3
+6,Ferrari,Belgian Grand Prix,911,22376,2014,22372,8,4
+9,Red Bull,Belgian Grand Prix,911,22377,2014,22373,3,5
+1,McLaren,Belgian Grand Prix,911,22378,2014,22374,10,6
+6,Ferrari,Belgian Grand Prix,911,22379,2014,22375,4,7
+10,Force India,Belgian Grand Prix,911,22380,2014,22376,13,8
+5,Toro Rosso,Belgian Grand Prix,911,22381,2014,22377,11,9
+10,Force India,Belgian Grand Prix,911,22382,2014,22378,18,10
+5,Toro Rosso,Belgian Grand Prix,911,22383,2014,22379,12,11
+1,McLaren,Belgian Grand Prix,911,22384,2014,22380,7,12
+3,Williams,Belgian Grand Prix,911,22385,2014,22381,9,13
+15,Sauber,Belgian Grand Prix,911,22386,2014,22382,14,14
+15,Sauber,Belgian Grand Prix,911,22387,2014,22383,20,15
+206,Marussia,Belgian Grand Prix,911,22388,2014,22384,19,16
+207,Caterham,Belgian Grand Prix,911,22389,2014,22385,22,17
+206,Marussia,Belgian Grand Prix,911,22390,2014,22386,16,18
+131,Mercedes,Belgian Grand Prix,911,22391,2014,22387,2,19
+208,Lotus F1,Belgian Grand Prix,911,22392,2014,22388,15,20
+208,Lotus F1,Belgian Grand Prix,911,22393,2014,22389,17,21
+207,Caterham,Belgian Grand Prix,911,22394,2014,22390,21,22
+131,Mercedes,Italian Grand Prix,912,22395,2014,22391,1,1
+131,Mercedes,Italian Grand Prix,912,22396,2014,22392,2,2
+3,Williams,Italian Grand Prix,912,22397,2014,22393,4,3
+3,Williams,Italian Grand Prix,912,22398,2014,22394,3,4
+9,Red Bull,Italian Grand Prix,912,22399,2014,22395,9,5
+9,Red Bull,Italian Grand Prix,912,22400,2014,22396,8,6
+10,Force India,Italian Grand Prix,912,22401,2014,22397,10,7
+1,McLaren,Italian Grand Prix,912,22402,2014,22398,6,8
+6,Ferrari,Italian Grand Prix,912,22403,2014,22399,11,9
+1,McLaren,Italian Grand Prix,912,22404,2014,22400,5,10
+5,Toro Rosso,Italian Grand Prix,912,22405,2014,22401,21,11
+10,Force India,Italian Grand Prix,912,22406,2014,22402,13,12
+5,Toro Rosso,Italian Grand Prix,912,22407,2014,22403,12,13
+208,Lotus F1,Italian Grand Prix,912,22408,2014,22404,16,14
+15,Sauber,Italian Grand Prix,912,22409,2014,22405,14,15
+208,Lotus F1,Italian Grand Prix,912,22410,2014,22406,17,16
+207,Caterham,Italian Grand Prix,912,22411,2014,22407,18,17
+206,Marussia,Italian Grand Prix,912,22412,2014,22408,19,18
+15,Sauber,Italian Grand Prix,912,22413,2014,22409,15,19
+207,Caterham,Italian Grand Prix,912,22414,2014,22410,22,20
+6,Ferrari,Italian Grand Prix,912,22415,2014,22411,7,21
+206,Marussia,Italian Grand Prix,912,22416,2014,22412,20,22
+131,Mercedes,Russian Grand Prix,915,22461,2014,22457,1,1
+131,Mercedes,Russian Grand Prix,915,22462,2014,22458,2,2
+3,Williams,Russian Grand Prix,915,22463,2014,22459,3,3
+1,McLaren,Russian Grand Prix,915,22464,2014,22460,4,4
+1,McLaren,Russian Grand Prix,915,22465,2014,22461,11,5
+6,Ferrari,Russian Grand Prix,915,22466,2014,22462,7,6
+9,Red Bull,Russian Grand Prix,915,22467,2014,22463,6,7
+9,Red Bull,Russian Grand Prix,915,22468,2014,22464,10,8
+6,Ferrari,Russian Grand Prix,915,22469,2014,22465,8,9
+10,Force India,Russian Grand Prix,915,22470,2014,22466,12,10
+3,Williams,Russian Grand Prix,915,22471,2014,22467,18,11
+10,Force India,Russian Grand Prix,915,22472,2014,22468,17,12
+5,Toro Rosso,Russian Grand Prix,915,22473,2014,22469,9,13
+5,Toro Rosso,Russian Grand Prix,915,22474,2014,22470,5,14
+15,Sauber,Russian Grand Prix,915,22475,2014,22471,13,15
+15,Sauber,Russian Grand Prix,915,22476,2014,22472,14,16
+208,Lotus F1,Russian Grand Prix,915,22477,2014,22473,15,17
+208,Lotus F1,Russian Grand Prix,915,22478,2014,22474,21,18
+207,Caterham,Russian Grand Prix,915,22479,2014,22475,16,19
+207,Caterham,Russian Grand Prix,915,22480,2014,22476,19,20
+206,Marussia,Russian Grand Prix,915,22481,2014,22477,20,21
+131,Mercedes,Abu Dhabi Grand Prix,918,22518,2014,22514,2,1
+3,Williams,Abu Dhabi Grand Prix,918,22519,2014,22515,4,2
+3,Williams,Abu Dhabi Grand Prix,918,22520,2014,22516,3,3
+9,Red Bull,Abu Dhabi Grand Prix,918,22521,2014,22517,20,4
+1,McLaren,Abu Dhabi Grand Prix,918,22522,2014,22518,6,5
+10,Force India,Abu Dhabi Grand Prix,918,22523,2014,22519,12,6
+10,Force India,Abu Dhabi Grand Prix,918,22524,2014,22520,11,7
+9,Red Bull,Abu Dhabi Grand Prix,918,22525,2014,22521,19,8
+6,Ferrari,Abu Dhabi Grand Prix,918,22526,2014,22522,8,9
+6,Ferrari,Abu Dhabi Grand Prix,918,22527,2014,22523,7,10
+1,McLaren,Abu Dhabi Grand Prix,918,22528,2014,22524,9,11
+5,Toro Rosso,Abu Dhabi Grand Prix,918,22529,2014,22525,10,12
+208,Lotus F1,Abu Dhabi Grand Prix,918,22530,2014,22526,18,13
+131,Mercedes,Abu Dhabi Grand Prix,918,22531,2014,22527,1,14
+15,Sauber,Abu Dhabi Grand Prix,918,22532,2014,22528,14,15
+15,Sauber,Abu Dhabi Grand Prix,918,22533,2014,22529,13,16
+207,Caterham,Abu Dhabi Grand Prix,918,22534,2014,22530,17,17
+207,Caterham,Abu Dhabi Grand Prix,918,22535,2014,22531,16,18
+208,Lotus F1,Abu Dhabi Grand Prix,918,22536,2014,22532,15,19
+5,Toro Rosso,Abu Dhabi Grand Prix,918,22537,2014,22533,5,20
+131,Mercedes,Bahrain Grand Prix,929,22596,2015,22592,1,1
+6,Ferrari,Bahrain Grand Prix,929,22597,2015,22593,4,2
+131,Mercedes,Bahrain Grand Prix,929,22598,2015,22594,3,3
+3,Williams,Bahrain Grand Prix,929,22599,2015,22595,5,4
+6,Ferrari,Bahrain Grand Prix,929,22600,2015,22596,2,5
+9,Red Bull,Bahrain Grand Prix,929,22601,2015,22597,7,6
+208,Lotus F1,Bahrain Grand Prix,929,22602,2015,22598,10,7
+10,Force India,Bahrain Grand Prix,929,22603,2015,22599,11,8
+9,Red Bull,Bahrain Grand Prix,929,22604,2015,22600,17,9
+3,Williams,Bahrain Grand Prix,929,22605,2015,22601,6,10
+1,McLaren,Bahrain Grand Prix,929,22606,2015,22602,14,11
+15,Sauber,Bahrain Grand Prix,929,22607,2015,22603,12,12
+10,Force India,Bahrain Grand Prix,929,22608,2015,22604,8,13
+15,Sauber,Bahrain Grand Prix,929,22609,2015,22605,13,14
+208,Lotus F1,Bahrain Grand Prix,929,22610,2015,22606,16,15
+209,Manor Marussia,Bahrain Grand Prix,929,22611,2015,22607,18,16
+209,Manor Marussia,Bahrain Grand Prix,929,22612,2015,22608,19,17
+5,Toro Rosso,Bahrain Grand Prix,929,22613,2015,22609,15,18
+5,Toro Rosso,Bahrain Grand Prix,929,22614,2015,22610,9,19
+1,McLaren,Bahrain Grand Prix,929,22615,2015,22611,20,20
+131,Mercedes,Spanish Grand Prix,930,22616,2015,22612,1,1
+131,Mercedes,Spanish Grand Prix,930,22617,2015,22613,2,2
+6,Ferrari,Spanish Grand Prix,930,22618,2015,22614,3,3
+3,Williams,Spanish Grand Prix,930,22619,2015,22615,4,4
+6,Ferrari,Spanish Grand Prix,930,22620,2015,22616,7,5
+3,Williams,Spanish Grand Prix,930,22621,2015,22617,9,6
+9,Red Bull,Spanish Grand Prix,930,22622,2015,22618,10,7
+208,Lotus F1,Spanish Grand Prix,930,22623,2015,22619,11,8
+5,Toro Rosso,Spanish Grand Prix,930,22624,2015,22620,5,9
+9,Red Bull,Spanish Grand Prix,930,22625,2015,22621,8,10
+5,Toro Rosso,Spanish Grand Prix,930,22626,2015,22622,6,11
+15,Sauber,Spanish Grand Prix,930,22627,2015,22623,15,12
+10,Force India,Spanish Grand Prix,930,22628,2015,22624,18,13
+15,Sauber,Spanish Grand Prix,930,22629,2015,22625,16,14
+10,Force India,Spanish Grand Prix,930,22630,2015,22626,17,15
+1,McLaren,Spanish Grand Prix,930,22631,2015,22627,14,16
+209,Manor Marussia,Spanish Grand Prix,930,22632,2015,22628,19,17
+209,Manor Marussia,Spanish Grand Prix,930,22633,2015,22629,20,18
+208,Lotus F1,Spanish Grand Prix,930,22634,2015,22630,12,19
+1,McLaren,Spanish Grand Prix,930,22635,2015,22631,13,20
+131,Mercedes,Austrian Grand Prix,933,22676,2015,22672,2,1
+131,Mercedes,Austrian Grand Prix,933,22677,2015,22673,1,2
+3,Williams,Austrian Grand Prix,933,22678,2015,22674,4,3
+6,Ferrari,Austrian Grand Prix,933,22679,2015,22675,3,4
+3,Williams,Austrian Grand Prix,933,22680,2015,22676,6,5
+10,Force India,Austrian Grand Prix,933,22681,2015,22677,5,6
+208,Lotus F1,Austrian Grand Prix,933,22682,2015,22678,10,7
+5,Toro Rosso,Austrian Grand Prix,933,22683,2015,22679,7,8
+10,Force India,Austrian Grand Prix,933,22684,2015,22680,13,9
+9,Red Bull,Austrian Grand Prix,933,22685,2015,22681,18,10
+15,Sauber,Austrian Grand Prix,933,22686,2015,22682,8,11
+9,Red Bull,Austrian Grand Prix,933,22687,2015,22683,15,12
+15,Sauber,Austrian Grand Prix,933,22688,2015,22684,11,13
+209,Manor Marussia,Austrian Grand Prix,933,22689,2015,22685,16,14
+208,Lotus F1,Austrian Grand Prix,933,22690,2015,22686,9,15
+5,Toro Rosso,Austrian Grand Prix,933,22691,2015,22687,12,16
+1,McLaren,Austrian Grand Prix,933,22692,2015,22688,20,17
+209,Manor Marussia,Austrian Grand Prix,933,22693,2015,22689,17,18
+6,Ferrari,Austrian Grand Prix,933,22694,2015,22690,14,19
+1,McLaren,Austrian Grand Prix,933,22695,2015,22691,19,20
+131,Mercedes,British Grand Prix,934,22696,2015,22692,1,1
+131,Mercedes,British Grand Prix,934,22697,2015,22693,2,2
+6,Ferrari,British Grand Prix,934,22698,2015,22694,6,3
+3,Williams,British Grand Prix,934,22699,2015,22695,3,4
+3,Williams,British Grand Prix,934,22700,2015,22696,4,5
+9,Red Bull,British Grand Prix,934,22701,2015,22697,7,6
+10,Force India,British Grand Prix,934,22702,2015,22698,9,7
+6,Ferrari,British Grand Prix,934,22703,2015,22699,5,8
+10,Force India,British Grand Prix,934,22704,2015,22700,11,9
+1,McLaren,British Grand Prix,934,22705,2015,22701,17,10
+15,Sauber,British Grand Prix,934,22706,2015,22702,15,11
+209,Manor Marussia,British Grand Prix,934,22707,2015,22703,20,12
+209,Manor Marussia,British Grand Prix,934,22708,2015,22704,19,13
+5,Toro Rosso,British Grand Prix,934,22709,2015,22705,8,14
+9,Red Bull,British Grand Prix,934,22710,2015,22706,10,15
+5,Toro Rosso,British Grand Prix,934,22711,2015,22707,13,16
+208,Lotus F1,British Grand Prix,934,22712,2015,22708,14,18
+1,McLaren,British Grand Prix,934,22713,2015,22709,18,19
+208,Lotus F1,British Grand Prix,934,22714,2015,22710,12,17
+15,Sauber,British Grand Prix,934,22715,2015,22711,16,20
+6,Ferrari,Hungarian Grand Prix,936,22716,2015,22712,3,1
+9,Red Bull,Hungarian Grand Prix,936,22717,2015,22713,7,2
+9,Red Bull,Hungarian Grand Prix,936,22718,2015,22714,4,3
+5,Toro Rosso,Hungarian Grand Prix,936,22719,2015,22715,9,4
+1,McLaren,Hungarian Grand Prix,936,22720,2015,22716,15,5
+131,Mercedes,Hungarian Grand Prix,936,22721,2015,22717,1,6
+208,Lotus F1,Hungarian Grand Prix,936,22722,2015,22718,10,7
+131,Mercedes,Hungarian Grand Prix,936,22723,2015,22719,2,8
+1,McLaren,Hungarian Grand Prix,936,22724,2015,22720,16,9
+15,Sauber,Hungarian Grand Prix,936,22725,2015,22721,17,10
+15,Sauber,Hungarian Grand Prix,936,22726,2015,22722,18,11
+3,Williams,Hungarian Grand Prix,936,22727,2015,22723,8,12
+3,Williams,Hungarian Grand Prix,936,22728,2015,22724,6,13
+208,Lotus F1,Hungarian Grand Prix,936,22729,2015,22725,14,14
+209,Manor Marussia,Hungarian Grand Prix,936,22730,2015,22726,19,15
+209,Manor Marussia,Hungarian Grand Prix,936,22731,2015,22727,20,16
+5,Toro Rosso,Hungarian Grand Prix,936,22732,2015,22728,12,17
+6,Ferrari,Hungarian Grand Prix,936,22733,2015,22729,5,18
+10,Force India,Hungarian Grand Prix,936,22734,2015,22730,13,19
+10,Force India,Hungarian Grand Prix,936,22735,2015,22731,11,20
+131,Mercedes,Belgian Grand Prix,937,22736,2015,22732,1,1
+131,Mercedes,Belgian Grand Prix,937,22737,2015,22733,2,2
+208,Lotus F1,Belgian Grand Prix,937,22738,2015,22734,9,3
+9,Red Bull,Belgian Grand Prix,937,22739,2015,22735,12,4
+10,Force India,Belgian Grand Prix,937,22740,2015,22736,4,5
+3,Williams,Belgian Grand Prix,937,22741,2015,22737,6,6
+6,Ferrari,Belgian Grand Prix,937,22742,2015,22738,16,7
+5,Toro Rosso,Belgian Grand Prix,937,22743,2015,22739,18,8
+3,Williams,Belgian Grand Prix,937,22744,2015,22740,3,9
+15,Sauber,Belgian Grand Prix,937,22745,2015,22741,13,10
+15,Sauber,Belgian Grand Prix,937,22746,2015,22742,14,11
+6,Ferrari,Belgian Grand Prix,937,22747,2015,22743,8,12
+1,McLaren,Belgian Grand Prix,937,22748,2015,22744,20,13
+1,McLaren,Belgian Grand Prix,937,22749,2015,22745,19,14
+209,Manor Marussia,Belgian Grand Prix,937,22750,2015,22746,17,15
+209,Manor Marussia,Belgian Grand Prix,937,22751,2015,22747,15,16
+5,Toro Rosso,Belgian Grand Prix,937,22752,2015,22748,10,17
+9,Red Bull,Belgian Grand Prix,937,22753,2015,22749,5,18
+208,Lotus F1,Belgian Grand Prix,937,22754,2015,22750,7,19
+10,Force India,Belgian Grand Prix,937,22755,2015,22751,11,20
+131,Mercedes,Italian Grand Prix,938,22756,2015,22752,1,1
+6,Ferrari,Italian Grand Prix,938,22757,2015,22753,3,2
+3,Williams,Italian Grand Prix,938,22758,2015,22754,5,3
+3,Williams,Italian Grand Prix,938,22759,2015,22755,6,4
+6,Ferrari,Italian Grand Prix,938,22760,2015,22756,2,5
+10,Force India,Italian Grand Prix,938,22761,2015,22757,7,6
+10,Force India,Italian Grand Prix,938,22762,2015,22758,9,7
+9,Red Bull,Italian Grand Prix,938,22763,2015,22759,19,8
+15,Sauber,Italian Grand Prix,938,22764,2015,22760,12,9
+9,Red Bull,Italian Grand Prix,938,22765,2015,22761,18,10
+5,Toro Rosso,Italian Grand Prix,938,22766,2015,22762,17,11
+5,Toro Rosso,Italian Grand Prix,938,22767,2015,22763,20,12
+15,Sauber,Italian Grand Prix,938,22768,2015,22764,17,13
+1,McLaren,Italian Grand Prix,938,22769,2015,22765,15,14
+209,Manor Marussia,Italian Grand Prix,938,22770,2015,22766,13,15
+209,Manor Marussia,Italian Grand Prix,938,22771,2015,22767,14,16
+131,Mercedes,Italian Grand Prix,938,22772,2015,22768,4,17
+1,McLaren,Italian Grand Prix,938,22773,2015,22769,16,18
+208,Lotus F1,Italian Grand Prix,938,22774,2015,22770,8,19
+208,Lotus F1,Italian Grand Prix,938,22775,2015,22771,10,20
+131,Mercedes,Russian Grand Prix,941,22816,2015,22812,2,1
+6,Ferrari,Russian Grand Prix,941,22817,2015,22813,4,2
+10,Force India,Russian Grand Prix,941,22818,2015,22814,7,3
+3,Williams,Russian Grand Prix,941,22819,2015,22815,15,4
+6,Ferrari,Russian Grand Prix,941,22820,2015,22816,5,8
+15,Sauber,Russian Grand Prix,941,22821,2015,22817,12,6
+208,Lotus F1,Russian Grand Prix,941,22822,2015,22818,14,7
+1,McLaren,Russian Grand Prix,941,22824,2015,22819,13,9
+5,Toro Rosso,Russian Grand Prix,941,22825,2015,22820,9,10
+1,McLaren,Russian Grand Prix,941,22826,2015,22821,19,11
+3,Williams,Russian Grand Prix,941,22827,2015,22822,3,12
+209,Manor Marussia,Russian Grand Prix,941,22828,2015,22823,18,13
+209,Manor Marussia,Russian Grand Prix,941,22829,2015,22824,17,14
+9,Red Bull,Russian Grand Prix,941,22830,2015,22825,10,15
+5,Toro Rosso,Russian Grand Prix,941,22831,2015,22826,20,16
+208,Lotus F1,Russian Grand Prix,941,22832,2015,22827,8,17
+131,Mercedes,Russian Grand Prix,941,22833,2015,22828,1,18
+10,Force India,Russian Grand Prix,941,22834,2015,22829,6,19
+15,Sauber,Russian Grand Prix,941,22835,2015,22830,17,20
+9,Red Bull,Russian Grand Prix,941,22836,2015,22832,11,5
+131,Mercedes,Abu Dhabi Grand Prix,945,22897,2015,22892,1,1
+131,Mercedes,Abu Dhabi Grand Prix,945,22898,2015,22893,2,2
+6,Ferrari,Abu Dhabi Grand Prix,945,22899,2015,22894,3,3
+6,Ferrari,Abu Dhabi Grand Prix,945,22900,2015,22895,15,4
+10,Force India,Abu Dhabi Grand Prix,945,22901,2015,22896,4,5
+9,Red Bull,Abu Dhabi Grand Prix,945,22902,2015,22897,5,6
+10,Force India,Abu Dhabi Grand Prix,945,22903,2015,22898,7,7
+3,Williams,Abu Dhabi Grand Prix,945,22904,2015,22899,8,8
+208,Lotus F1,Abu Dhabi Grand Prix,945,22905,2015,22900,18,9
+9,Red Bull,Abu Dhabi Grand Prix,945,22906,2015,22901,9,10
+5,Toro Rosso,Abu Dhabi Grand Prix,945,22907,2015,22902,10,11
+1,McLaren,Abu Dhabi Grand Prix,945,22908,2015,22903,12,12
+3,Williams,Abu Dhabi Grand Prix,945,22909,2015,22904,6,13
+15,Sauber,Abu Dhabi Grand Prix,945,22910,2015,22905,17,14
+15,Sauber,Abu Dhabi Grand Prix,945,22911,2015,22906,14,15
+5,Toro Rosso,Abu Dhabi Grand Prix,945,22912,2015,22907,11,16
+1,McLaren,Abu Dhabi Grand Prix,945,22913,2015,22908,16,17
+209,Manor Marussia,Abu Dhabi Grand Prix,945,22914,2015,22909,19,18
+209,Manor Marussia,Abu Dhabi Grand Prix,945,22915,2015,22910,20,19
+208,Lotus F1,Abu Dhabi Grand Prix,945,22916,2015,22911,13,20
+131,Mercedes,Bahrain Grand Prix,949,22939,2016,22934,2,1
+6,Ferrari,Bahrain Grand Prix,949,22940,2016,22935,4,2
+131,Mercedes,Bahrain Grand Prix,949,22941,2016,22936,1,3
+9,Red Bull,Bahrain Grand Prix,949,22942,2016,22937,5,4
+210,Haas F1 Team,Bahrain Grand Prix,949,22943,2016,22938,9,5
+5,Toro Rosso,Bahrain Grand Prix,949,22944,2016,22939,10,6
+9,Red Bull,Bahrain Grand Prix,949,22945,2016,22940,15,7
+3,Williams,Bahrain Grand Prix,949,22946,2016,22941,7,8
+3,Williams,Bahrain Grand Prix,949,22947,2016,22942,6,9
+1,McLaren,Bahrain Grand Prix,949,22948,2016,22943,12,10
+4,Renault,Bahrain Grand Prix,949,22949,2016,22944,22,11
+15,Sauber,Bahrain Grand Prix,949,22950,2016,22945,17,12
+209,Manor Marussia,Bahrain Grand Prix,949,22951,2016,22946,16,13
+15,Sauber,Bahrain Grand Prix,949,22952,2016,22947,21,14
+10,Force India,Bahrain Grand Prix,949,22953,2016,22948,8,15
+10,Force India,Bahrain Grand Prix,949,22954,2016,22949,18,16
+209,Manor Marussia,Bahrain Grand Prix,949,22955,2016,22950,20,17
+5,Toro Rosso,Bahrain Grand Prix,949,22956,2016,22951,11,18
+210,Haas F1 Team,Bahrain Grand Prix,949,22957,2016,22952,13,19
+1,McLaren,Bahrain Grand Prix,949,22958,2016,22953,14,20
+6,Ferrari,Bahrain Grand Prix,949,22959,2016,22954,3,21
+4,Renault,Bahrain Grand Prix,949,22960,2016,22955,19,22
+131,Mercedes,Russian Grand Prix,951,22983,2016,22978,1,1
+131,Mercedes,Russian Grand Prix,951,22984,2016,22979,10,2
+6,Ferrari,Russian Grand Prix,951,22985,2016,22980,3,3
+3,Williams,Russian Grand Prix,951,22986,2016,22981,2,4
+3,Williams,Russian Grand Prix,951,22987,2016,22982,4,5
+1,McLaren,Russian Grand Prix,951,22988,2016,22983,14,6
+4,Renault,Russian Grand Prix,951,22989,2016,22984,17,7
+210,Haas F1 Team,Russian Grand Prix,951,22990,2016,22985,15,8
+10,Force India,Russian Grand Prix,951,22991,2016,22986,6,9
+1,McLaren,Russian Grand Prix,951,22992,2016,22987,12,10
+9,Red Bull,Russian Grand Prix,951,22993,2016,22988,5,11
+5,Toro Rosso,Russian Grand Prix,951,22994,2016,22989,11,12
+4,Renault,Russian Grand Prix,951,22995,2016,22990,18,13
+15,Sauber,Russian Grand Prix,951,22996,2016,22991,22,14
+9,Red Bull,Russian Grand Prix,951,22997,2016,22992,8,15
+15,Sauber,Russian Grand Prix,951,22998,2016,22993,19,16
+210,Haas F1 Team,Russian Grand Prix,951,22999,2016,22994,16,17
+209,Manor Marussia,Russian Grand Prix,951,23000,2016,22995,20,18
+5,Toro Rosso,Russian Grand Prix,951,23001,2016,22996,9,19
+6,Ferrari,Russian Grand Prix,951,23002,2016,22997,7,20
+10,Force India,Russian Grand Prix,951,23003,2016,22998,13,21
+209,Manor Marussia,Russian Grand Prix,951,23004,2016,22999,21,22
+9,Red Bull,Spanish Grand Prix,952,23005,2016,23000,4,1
+6,Ferrari,Spanish Grand Prix,952,23006,2016,23001,5,2
+6,Ferrari,Spanish Grand Prix,952,23007,2016,23002,6,3
+9,Red Bull,Spanish Grand Prix,952,23008,2016,23003,3,4
+3,Williams,Spanish Grand Prix,952,23009,2016,23004,7,5
+5,Toro Rosso,Spanish Grand Prix,952,23010,2016,23005,8,6
+10,Force India,Spanish Grand Prix,952,23011,2016,23006,9,7
+3,Williams,Spanish Grand Prix,952,23012,2016,23007,18,8
+1,McLaren,Spanish Grand Prix,952,23013,2016,23008,12,9
+5,Toro Rosso,Spanish Grand Prix,952,23014,2016,23009,13,10
+210,Haas F1 Team,Spanish Grand Prix,952,23015,2016,23010,16,11
+15,Sauber,Spanish Grand Prix,952,23016,2016,23011,19,12
+4,Renault,Spanish Grand Prix,952,23017,2016,23012,17,13
+4,Renault,Spanish Grand Prix,952,23018,2016,23013,15,14
+15,Sauber,Spanish Grand Prix,952,23019,2016,23014,20,15
+209,Manor Marussia,Spanish Grand Prix,952,23020,2016,23015,21,16
+209,Manor Marussia,Spanish Grand Prix,952,23021,2016,23016,22,17
+210,Haas F1 Team,Spanish Grand Prix,952,23022,2016,23017,14,18
+1,McLaren,Spanish Grand Prix,952,23023,2016,23018,10,19
+10,Force India,Spanish Grand Prix,952,23024,2016,23019,11,20
+131,Mercedes,Spanish Grand Prix,952,23025,2016,23020,1,21
+131,Mercedes,Spanish Grand Prix,952,23026,2016,23021,2,22
+131,Mercedes,Austrian Grand Prix,956,23093,2016,23088,1,1
+9,Red Bull,Austrian Grand Prix,956,23094,2016,23089,8,2
+6,Ferrari,Austrian Grand Prix,956,23095,2016,23090,4,3
+131,Mercedes,Austrian Grand Prix,956,23096,2016,23091,6,4
+9,Red Bull,Austrian Grand Prix,956,23097,2016,23092,5,5
+1,McLaren,Austrian Grand Prix,956,23098,2016,23093,3,6
+210,Haas F1 Team,Austrian Grand Prix,956,23099,2016,23094,13,7
+5,Toro Rosso,Austrian Grand Prix,956,23100,2016,23095,15,8
+3,Williams,Austrian Grand Prix,956,23101,2016,23096,7,9
+209,Manor Marussia,Austrian Grand Prix,956,23102,2016,23097,12,10
+210,Haas F1 Team,Austrian Grand Prix,956,23103,2016,23098,11,11
+4,Renault,Austrian Grand Prix,956,23104,2016,23099,19,12
+15,Sauber,Austrian Grand Prix,956,23105,2016,23100,21,13
+4,Renault,Austrian Grand Prix,956,23106,2016,23101,17,14
+15,Sauber,Austrian Grand Prix,956,23107,2016,23102,18,15
+209,Manor Marussia,Austrian Grand Prix,956,23108,2016,23103,20,16
+10,Force India,Austrian Grand Prix,956,23109,2016,23104,16,17
+1,McLaren,Austrian Grand Prix,956,23110,2016,23105,14,18
+10,Force India,Austrian Grand Prix,956,23111,2016,23106,2,19
+3,Williams,Austrian Grand Prix,956,23112,2016,23107,0,20
+6,Ferrari,Austrian Grand Prix,956,23113,2016,23108,9,21
+5,Toro Rosso,Austrian Grand Prix,956,23114,2016,23109,0,22
+131,Mercedes,British Grand Prix,957,23115,2016,23110,1,1
+9,Red Bull,British Grand Prix,957,23116,2016,23111,3,2
+131,Mercedes,British Grand Prix,957,23117,2016,23112,2,3
+9,Red Bull,British Grand Prix,957,23118,2016,23113,4,4
+6,Ferrari,British Grand Prix,957,23119,2016,23114,5,5
+10,Force India,British Grand Prix,957,23120,2016,23115,10,6
+10,Force India,British Grand Prix,957,23121,2016,23116,8,7
+5,Toro Rosso,British Grand Prix,957,23122,2016,23117,7,8
+6,Ferrari,British Grand Prix,957,23123,2016,23118,11,9
+5,Toro Rosso,British Grand Prix,957,23124,2016,23119,15,10
+3,Williams,British Grand Prix,957,23125,2016,23120,12,11
+1,McLaren,British Grand Prix,957,23126,2016,23121,17,12
+1,McLaren,British Grand Prix,957,23127,2016,23122,9,13
+3,Williams,British Grand Prix,957,23128,2016,23123,6,14
+15,Sauber,British Grand Prix,957,23129,2016,23124,21,15
+210,Haas F1 Team,British Grand Prix,957,23130,2016,23125,14,16
+4,Renault,British Grand Prix,957,23131,2016,23126,16,17
+4,Renault,British Grand Prix,957,23132,2016,23127,18,18
+209,Manor Marussia,British Grand Prix,957,23133,2016,23128,19,19
+210,Haas F1 Team,British Grand Prix,957,23134,2016,23129,13,20
+15,Sauber,British Grand Prix,957,23135,2016,23130,22,21
+209,Manor Marussia,British Grand Prix,957,23136,2016,23131,20,22
+131,Mercedes,Hungarian Grand Prix,958,23137,2016,23132,2,1
+131,Mercedes,Hungarian Grand Prix,958,23138,2016,23133,1,2
+9,Red Bull,Hungarian Grand Prix,958,23139,2016,23134,3,3
+6,Ferrari,Hungarian Grand Prix,958,23140,2016,23135,5,4
+9,Red Bull,Hungarian Grand Prix,958,23141,2016,23136,4,5
+6,Ferrari,Hungarian Grand Prix,958,23142,2016,23137,14,6
+1,McLaren,Hungarian Grand Prix,958,23143,2016,23138,7,7
+5,Toro Rosso,Hungarian Grand Prix,958,23144,2016,23139,6,8
+3,Williams,Hungarian Grand Prix,958,23145,2016,23140,10,9
+10,Force India,Hungarian Grand Prix,958,23146,2016,23141,9,10
+10,Force India,Hungarian Grand Prix,958,23147,2016,23142,13,11
+4,Renault,Hungarian Grand Prix,958,23148,2016,23143,17,12
+210,Haas F1 Team,Hungarian Grand Prix,958,23149,2016,23144,15,13
+210,Haas F1 Team,Hungarian Grand Prix,958,23150,2016,23145,11,14
+4,Renault,Hungarian Grand Prix,958,23151,2016,23146,19,15
+5,Toro Rosso,Hungarian Grand Prix,958,23152,2016,23147,12,16
+15,Sauber,Hungarian Grand Prix,958,23153,2016,23148,16,17
+3,Williams,Hungarian Grand Prix,958,23154,2016,23149,18,18
+209,Manor Marussia,Hungarian Grand Prix,958,23155,2016,23150,20,19
+15,Sauber,Hungarian Grand Prix,958,23156,2016,23151,22,20
+209,Manor Marussia,Hungarian Grand Prix,958,23157,2016,23152,21,21
+1,McLaren,Hungarian Grand Prix,958,23158,2016,23153,8,22
+131,Mercedes,Belgian Grand Prix,960,23181,2016,23176,1,1
+9,Red Bull,Belgian Grand Prix,960,23182,2016,23177,5,2
+131,Mercedes,Belgian Grand Prix,960,23183,2016,23178,21,3
+10,Force India,Belgian Grand Prix,960,23184,2016,23179,7,4
+10,Force India,Belgian Grand Prix,960,23185,2016,23180,6,5
+6,Ferrari,Belgian Grand Prix,960,23186,2016,23181,4,6
+1,McLaren,Belgian Grand Prix,960,23187,2016,23182,22,7
+3,Williams,Belgian Grand Prix,960,23188,2016,23183,8,8
+6,Ferrari,Belgian Grand Prix,960,23189,2016,23184,3,9
+3,Williams,Belgian Grand Prix,960,23190,2016,23185,10,10
+9,Red Bull,Belgian Grand Prix,960,23191,2016,23186,2,11
+210,Haas F1 Team,Belgian Grand Prix,960,23192,2016,23187,18,12
+210,Haas F1 Team,Belgian Grand Prix,960,23193,2016,23188,11,13
+5,Toro Rosso,Belgian Grand Prix,960,23194,2016,23189,19,14
+4,Renault,Belgian Grand Prix,960,23195,2016,23190,13,15
+209,Manor Marussia,Belgian Grand Prix,960,23196,2016,23191,17,16
+15,Sauber,Belgian Grand Prix,960,23197,2016,23192,16,17
+4,Renault,Belgian Grand Prix,960,23198,2016,23193,12,18
+15,Sauber,Belgian Grand Prix,960,23199,2016,23194,20,19
+5,Toro Rosso,Belgian Grand Prix,960,23200,2016,23195,14,20
+1,McLaren,Belgian Grand Prix,960,23201,2016,23196,9,21
+209,Manor Marussia,Belgian Grand Prix,960,23202,2016,23197,15,22
+131,Mercedes,Italian Grand Prix,961,23203,2016,23198,2,1
+131,Mercedes,Italian Grand Prix,961,23204,2016,23199,1,2
+6,Ferrari,Italian Grand Prix,961,23205,2016,23200,3,3
+6,Ferrari,Italian Grand Prix,961,23206,2016,23201,4,4
+9,Red Bull,Italian Grand Prix,961,23207,2016,23202,6,5
+3,Williams,Italian Grand Prix,961,23208,2016,23203,5,6
+9,Red Bull,Italian Grand Prix,961,23209,2016,23204,7,7
+10,Force India,Italian Grand Prix,961,23210,2016,23205,8,8
+3,Williams,Italian Grand Prix,961,23211,2016,23206,11,9
+10,Force India,Italian Grand Prix,961,23212,2016,23207,9,10
+210,Haas F1 Team,Italian Grand Prix,961,23213,2016,23208,17,11
+1,McLaren,Italian Grand Prix,961,23214,2016,23209,14,12
+210,Haas F1 Team,Italian Grand Prix,961,23215,2016,23210,10,13
+1,McLaren,Italian Grand Prix,961,23216,2016,23211,12,14
+5,Toro Rosso,Italian Grand Prix,961,23217,2016,23212,15,15
+15,Sauber,Italian Grand Prix,961,23218,2016,23213,19,16
+4,Renault,Italian Grand Prix,961,23219,2016,23214,21,17
+209,Manor Marussia,Italian Grand Prix,961,23220,2016,23215,22,18
+5,Toro Rosso,Italian Grand Prix,961,23221,2016,23216,16,19
+209,Manor Marussia,Italian Grand Prix,961,23222,2016,23217,13,20
+4,Renault,Italian Grand Prix,961,23223,2016,23218,20,21
+15,Sauber,Italian Grand Prix,961,23224,2016,23219,18,22
+131,Mercedes,Abu Dhabi Grand Prix,968,23357,2016,23352,1,1
+131,Mercedes,Abu Dhabi Grand Prix,968,23358,2016,23353,2,2
+6,Ferrari,Abu Dhabi Grand Prix,968,23359,2016,23354,5,3
+9,Red Bull,Abu Dhabi Grand Prix,968,23360,2016,23355,6,4
+9,Red Bull,Abu Dhabi Grand Prix,968,23361,2016,23356,3,5
+6,Ferrari,Abu Dhabi Grand Prix,968,23362,2016,23357,4,6
+10,Force India,Abu Dhabi Grand Prix,968,23363,2016,23358,7,7
+10,Force India,Abu Dhabi Grand Prix,968,23364,2016,23359,8,8
+3,Williams,Abu Dhabi Grand Prix,968,23365,2016,23360,10,9
+1,McLaren,Abu Dhabi Grand Prix,968,23366,2016,23361,9,10
+210,Haas F1 Team,Abu Dhabi Grand Prix,968,23367,2016,23362,14,11
+210,Haas F1 Team,Abu Dhabi Grand Prix,968,23368,2016,23363,13,12
+209,Manor Marussia,Abu Dhabi Grand Prix,968,23369,2016,23364,20,13
+209,Manor Marussia,Abu Dhabi Grand Prix,968,23370,2016,23365,16,14
+15,Sauber,Abu Dhabi Grand Prix,968,23371,2016,23366,22,15
+15,Sauber,Abu Dhabi Grand Prix,968,23372,2016,23367,19,16
+4,Renault,Abu Dhabi Grand Prix,968,23373,2016,23368,15,17
+5,Toro Rosso,Abu Dhabi Grand Prix,968,23374,2016,23369,21,18
+5,Toro Rosso,Abu Dhabi Grand Prix,968,23375,2016,23370,17,19
+1,McLaren,Abu Dhabi Grand Prix,968,23376,2016,23371,12,20
+3,Williams,Abu Dhabi Grand Prix,968,23377,2016,23372,11,21
+4,Renault,Abu Dhabi Grand Prix,968,23378,2016,23373,18,22
+6,Ferrari,Bahrain Grand Prix,971,23419,2017,23414,3,1
+131,Mercedes,Bahrain Grand Prix,971,23420,2017,23415,2,2
+131,Mercedes,Bahrain Grand Prix,971,23421,2017,23416,1,3
+6,Ferrari,Bahrain Grand Prix,971,23422,2017,23417,5,4
+9,Red Bull,Bahrain Grand Prix,971,23423,2017,23418,4,5
+3,Williams,Bahrain Grand Prix,971,23424,2017,23419,8,6
+10,Force India,Bahrain Grand Prix,971,23425,2017,23420,18,7
+210,Haas F1 Team,Bahrain Grand Prix,971,23426,2017,23421,9,8
+4,Renault,Bahrain Grand Prix,971,23427,2017,23422,7,9
+10,Force India,Bahrain Grand Prix,971,23428,2017,23423,14,10
+15,Sauber,Bahrain Grand Prix,971,23429,2017,23424,13,11
+5,Toro Rosso,Bahrain Grand Prix,971,23430,2017,23425,11,12
+4,Renault,Bahrain Grand Prix,971,23431,2017,23426,10,13
+1,McLaren,Bahrain Grand Prix,971,23432,2017,23427,15,14
+15,Sauber,Bahrain Grand Prix,971,23433,2017,23428,19,15
+5,Toro Rosso,Bahrain Grand Prix,971,23434,2017,23429,16,16
+3,Williams,Bahrain Grand Prix,971,23435,2017,23430,12,17
+9,Red Bull,Bahrain Grand Prix,971,23436,2017,23431,6,18
+210,Haas F1 Team,Bahrain Grand Prix,971,23437,2017,23432,20,19
+1,McLaren,Bahrain Grand Prix,971,23438,2017,23433,17,20
+131,Mercedes,Russian Grand Prix,972,23439,2017,23434,3,1
+6,Ferrari,Russian Grand Prix,972,23440,2017,23435,1,2
+6,Ferrari,Russian Grand Prix,972,23441,2017,23436,2,3
+131,Mercedes,Russian Grand Prix,972,23442,2017,23437,4,4
+9,Red Bull,Russian Grand Prix,972,23443,2017,23438,7,5
+10,Force India,Russian Grand Prix,972,23444,2017,23439,9,6
+10,Force India,Russian Grand Prix,972,23445,2017,23440,10,7
+4,Renault,Russian Grand Prix,972,23446,2017,23441,8,8
+3,Williams,Russian Grand Prix,972,23447,2017,23442,6,9
+5,Toro Rosso,Russian Grand Prix,972,23448,2017,23443,14,10
+3,Williams,Russian Grand Prix,972,23449,2017,23444,11,11
+5,Toro Rosso,Russian Grand Prix,972,23450,2017,23445,12,12
+210,Haas F1 Team,Russian Grand Prix,972,23451,2017,23446,13,13
+1,McLaren,Russian Grand Prix,972,23452,2017,23447,20,14
+15,Sauber,Russian Grand Prix,972,23453,2017,23448,18,15
+15,Sauber,Russian Grand Prix,972,23454,2017,23449,17,16
+9,Red Bull,Russian Grand Prix,972,23455,2017,23450,5,17
+4,Renault,Russian Grand Prix,972,23456,2017,23451,16,18
+210,Haas F1 Team,Russian Grand Prix,972,23457,2017,23452,19,19
+1,McLaren,Russian Grand Prix,972,23458,2017,23453,15,20
+131,Mercedes,Spanish Grand Prix,973,23459,2017,23454,1,1
+6,Ferrari,Spanish Grand Prix,973,23460,2017,23455,2,2
+9,Red Bull,Spanish Grand Prix,973,23461,2017,23456,6,3
+10,Force India,Spanish Grand Prix,973,23462,2017,23457,8,4
+10,Force India,Spanish Grand Prix,973,23463,2017,23458,10,5
+4,Renault,Spanish Grand Prix,973,23464,2017,23459,13,6
+5,Toro Rosso,Spanish Grand Prix,973,23465,2017,23460,12,7
+15,Sauber,Spanish Grand Prix,973,23466,2017,23461,15,8
+5,Toro Rosso,Spanish Grand Prix,973,23467,2017,23462,19,9
+210,Haas F1 Team,Spanish Grand Prix,973,23468,2017,23463,14,10
+15,Sauber,Spanish Grand Prix,973,23469,2017,23464,16,11
+1,McLaren,Spanish Grand Prix,973,23470,2017,23465,7,12
+3,Williams,Spanish Grand Prix,973,23471,2017,23466,9,13
+210,Haas F1 Team,Spanish Grand Prix,973,23472,2017,23467,11,14
+4,Renault,Spanish Grand Prix,973,23473,2017,23468,17,15
+3,Williams,Spanish Grand Prix,973,23474,2017,23469,18,16
+131,Mercedes,Spanish Grand Prix,973,23475,2017,23470,3,17
+1,McLaren,Spanish Grand Prix,973,23476,2017,23471,20,18
+9,Red Bull,Spanish Grand Prix,973,23477,2017,23472,5,19
+6,Ferrari,Spanish Grand Prix,973,23478,2017,23473,4,20
+131,Mercedes,Austrian Grand Prix,977,23542,2017,23537,1,1
+6,Ferrari,Austrian Grand Prix,977,23543,2017,23538,2,2
+9,Red Bull,Austrian Grand Prix,977,23544,2017,23539,4,3
+131,Mercedes,Austrian Grand Prix,977,23545,2017,23540,8,4
+6,Ferrari,Austrian Grand Prix,977,23546,2017,23541,3,5
+210,Haas F1 Team,Austrian Grand Prix,977,23547,2017,23542,6,6
+10,Force India,Austrian Grand Prix,977,23548,2017,23543,7,7
+10,Force India,Austrian Grand Prix,977,23549,2017,23544,9,8
+3,Williams,Austrian Grand Prix,977,23550,2017,23545,17,9
+3,Williams,Austrian Grand Prix,977,23551,2017,23546,18,10
+4,Renault,Austrian Grand Prix,977,23552,2017,23547,16,11
+1,McLaren,Austrian Grand Prix,977,23553,2017,23548,13,12
+4,Renault,Austrian Grand Prix,977,23554,2017,23549,11,13
+15,Sauber,Austrian Grand Prix,977,23555,2017,23550,20,14
+15,Sauber,Austrian Grand Prix,977,23556,2017,23551,19,15
+5,Toro Rosso,Austrian Grand Prix,977,23557,2017,23552,14,16
+5,Toro Rosso,Austrian Grand Prix,977,23558,2017,23553,10,17
+210,Haas F1 Team,Austrian Grand Prix,977,23559,2017,23554,15,18
+1,McLaren,Austrian Grand Prix,977,23560,2017,23555,12,19
+9,Red Bull,Austrian Grand Prix,977,23561,2017,23556,5,20
+131,Mercedes,British Grand Prix,978,23562,2017,23557,1,1
+131,Mercedes,British Grand Prix,978,23563,2017,23558,9,2
+6,Ferrari,British Grand Prix,978,23564,2017,23559,2,3
+9,Red Bull,British Grand Prix,978,23565,2017,23560,4,4
+9,Red Bull,British Grand Prix,978,23566,2017,23561,19,5
+4,Renault,British Grand Prix,978,23567,2017,23562,5,6
+6,Ferrari,British Grand Prix,978,23568,2017,23563,3,7
+10,Force India,British Grand Prix,978,23569,2017,23564,7,8
+10,Force India,British Grand Prix,978,23570,2017,23565,6,9
+3,Williams,British Grand Prix,978,23571,2017,23566,14,10
+1,McLaren,British Grand Prix,978,23572,2017,23567,8,11
+210,Haas F1 Team,British Grand Prix,978,23573,2017,23568,16,12
+210,Haas F1 Team,British Grand Prix,978,23574,2017,23569,10,13
+15,Sauber,British Grand Prix,978,23575,2017,23570,18,14
+5,Toro Rosso,British Grand Prix,978,23576,2017,23571,12,15
+3,Williams,British Grand Prix,978,23577,2017,23572,15,16
+15,Sauber,British Grand Prix,978,23578,2017,23573,17,17
+1,McLaren,British Grand Prix,978,23579,2017,23574,20,18
+5,Toro Rosso,British Grand Prix,978,23580,2017,23575,13,19
+4,Renault,British Grand Prix,978,23581,2017,23576,11,20
+6,Ferrari,Hungarian Grand Prix,979,23582,2017,23577,1,1
+6,Ferrari,Hungarian Grand Prix,979,23583,2017,23578,2,2
+131,Mercedes,Hungarian Grand Prix,979,23584,2017,23579,3,3
+131,Mercedes,Hungarian Grand Prix,979,23585,2017,23580,4,4
+9,Red Bull,Hungarian Grand Prix,979,23586,2017,23581,5,5
+1,McLaren,Hungarian Grand Prix,979,23587,2017,23582,7,6
+5,Toro Rosso,Hungarian Grand Prix,979,23588,2017,23583,9,7
+10,Force India,Hungarian Grand Prix,979,23589,2017,23584,13,8
+10,Force India,Hungarian Grand Prix,979,23590,2017,23585,11,9
+1,McLaren,Hungarian Grand Prix,979,23591,2017,23586,8,10
+5,Toro Rosso,Hungarian Grand Prix,979,23592,2017,23587,16,11
+4,Renault,Hungarian Grand Prix,979,23593,2017,23588,10,12
+210,Haas F1 Team,Hungarian Grand Prix,979,23594,2017,23589,15,13
+3,Williams,Hungarian Grand Prix,979,23595,2017,23590,17,14
+15,Sauber,Hungarian Grand Prix,979,23596,2017,23591,18,15
+15,Sauber,Hungarian Grand Prix,979,23597,2017,23592,20,16
+4,Renault,Hungarian Grand Prix,979,23598,2017,23593,12,17
+3,Williams,Hungarian Grand Prix,979,23599,2017,23594,19,18
+210,Haas F1 Team,Hungarian Grand Prix,979,23600,2017,23595,14,19
+9,Red Bull,Hungarian Grand Prix,979,23601,2017,23596,6,20
+131,Mercedes,Belgian Grand Prix,980,23602,2017,23597,1,1
+6,Ferrari,Belgian Grand Prix,980,23603,2017,23598,2,2
+9,Red Bull,Belgian Grand Prix,980,23604,2017,23599,6,3
+6,Ferrari,Belgian Grand Prix,980,23605,2017,23600,4,4
+131,Mercedes,Belgian Grand Prix,980,23606,2017,23601,3,5
+4,Renault,Belgian Grand Prix,980,23607,2017,23602,7,6
+210,Haas F1 Team,Belgian Grand Prix,980,23608,2017,23603,11,7
+3,Williams,Belgian Grand Prix,980,23609,2017,23604,16,8
+10,Force India,Belgian Grand Prix,980,23610,2017,23605,9,9
+5,Toro Rosso,Belgian Grand Prix,980,23611,2017,23606,13,10
+3,Williams,Belgian Grand Prix,980,23612,2017,23607,15,11
+5,Toro Rosso,Belgian Grand Prix,980,23613,2017,23608,19,12
+4,Renault,Belgian Grand Prix,980,23614,2017,23609,14,13
+1,McLaren,Belgian Grand Prix,980,23615,2017,23610,20,14
+210,Haas F1 Team,Belgian Grand Prix,980,23616,2017,23611,12,15
+15,Sauber,Belgian Grand Prix,980,23617,2017,23612,17,16
+10,Force India,Belgian Grand Prix,980,23618,2017,23613,8,17
+1,McLaren,Belgian Grand Prix,980,23619,2017,23614,10,18
+9,Red Bull,Belgian Grand Prix,980,23620,2017,23615,5,19
+15,Sauber,Belgian Grand Prix,980,23621,2017,23616,18,20
+131,Mercedes,Italian Grand Prix,981,23622,2017,23617,1,1
+131,Mercedes,Italian Grand Prix,981,23623,2017,23618,4,2
+6,Ferrari,Italian Grand Prix,981,23624,2017,23619,6,3
+9,Red Bull,Italian Grand Prix,981,23625,2017,23620,16,4
+6,Ferrari,Italian Grand Prix,981,23626,2017,23621,5,5
+10,Force India,Italian Grand Prix,981,23627,2017,23622,3,6
+3,Williams,Italian Grand Prix,981,23628,2017,23623,2,7
+3,Williams,Italian Grand Prix,981,23629,2017,23624,7,8
+10,Force India,Italian Grand Prix,981,23630,2017,23625,10,9
+9,Red Bull,Italian Grand Prix,981,23631,2017,23626,13,10
+210,Haas F1 Team,Italian Grand Prix,981,23632,2017,23627,9,11
+5,Toro Rosso,Italian Grand Prix,981,23633,2017,23628,8,12
+4,Renault,Italian Grand Prix,981,23634,2017,23629,14,13
+5,Toro Rosso,Italian Grand Prix,981,23635,2017,23630,15,14
+210,Haas F1 Team,Italian Grand Prix,981,23636,2017,23631,20,15
+15,Sauber,Italian Grand Prix,981,23637,2017,23632,12,16
+1,McLaren,Italian Grand Prix,981,23638,2017,23633,19,17
+15,Sauber,Italian Grand Prix,981,23639,2017,23634,11,18
+1,McLaren,Italian Grand Prix,981,23640,2017,23635,18,19
+4,Renault,Italian Grand Prix,981,23641,2017,23636,17,20
+131,Mercedes,Abu Dhabi Grand Prix,988,23762,2017,23757,1,1
+131,Mercedes,Abu Dhabi Grand Prix,988,23763,2017,23758,2,2
+6,Ferrari,Abu Dhabi Grand Prix,988,23764,2017,23759,3,3
+6,Ferrari,Abu Dhabi Grand Prix,988,23765,2017,23760,5,4
+9,Red Bull,Abu Dhabi Grand Prix,988,23766,2017,23761,6,5
+4,Renault,Abu Dhabi Grand Prix,988,23767,2017,23762,7,6
+10,Force India,Abu Dhabi Grand Prix,988,23768,2017,23763,8,7
+10,Force India,Abu Dhabi Grand Prix,988,23769,2017,23764,9,8
+1,McLaren,Abu Dhabi Grand Prix,988,23770,2017,23765,11,9
+3,Williams,Abu Dhabi Grand Prix,988,23771,2017,23766,10,10
+210,Haas F1 Team,Abu Dhabi Grand Prix,988,23772,2017,23767,16,11
+1,McLaren,Abu Dhabi Grand Prix,988,23773,2017,23768,13,12
+210,Haas F1 Team,Abu Dhabi Grand Prix,988,23774,2017,23769,14,13
+15,Sauber,Abu Dhabi Grand Prix,988,23775,2017,23770,18,14
+5,Toro Rosso,Abu Dhabi Grand Prix,988,23776,2017,23771,20,15
+5,Toro Rosso,Abu Dhabi Grand Prix,988,23777,2017,23772,17,16
+15,Sauber,Abu Dhabi Grand Prix,988,23778,2017,23773,19,17
+3,Williams,Abu Dhabi Grand Prix,988,23779,2017,23774,15,18
+4,Renault,Abu Dhabi Grand Prix,988,23780,2017,23775,12,19
+9,Red Bull,Abu Dhabi Grand Prix,988,23781,2017,23776,4,20
+6,Ferrari,Bahrain Grand Prix,990,23802,2018,23797,1,1
+131,Mercedes,Bahrain Grand Prix,990,23803,2018,23798,3,2
+131,Mercedes,Bahrain Grand Prix,990,23804,2018,23799,9,3
+5,Toro Rosso,Bahrain Grand Prix,990,23805,2018,23800,5,4
+210,Haas F1 Team,Bahrain Grand Prix,990,23806,2018,23801,6,5
+4,Renault,Bahrain Grand Prix,990,23807,2018,23802,7,6
+1,McLaren,Bahrain Grand Prix,990,23808,2018,23803,13,7
+1,McLaren,Bahrain Grand Prix,990,23809,2018,23804,14,8
+15,Sauber,Bahrain Grand Prix,990,23810,2018,23805,17,9
+10,Force India,Bahrain Grand Prix,990,23811,2018,23806,8,10
+4,Renault,Bahrain Grand Prix,990,23812,2018,23807,10,11
+15,Sauber,Bahrain Grand Prix,990,23813,2018,23808,19,12
+210,Haas F1 Team,Bahrain Grand Prix,990,23814,2018,23809,16,13
+3,Williams,Bahrain Grand Prix,990,23815,2018,23810,20,14
+3,Williams,Bahrain Grand Prix,990,23816,2018,23811,18,15
+10,Force India,Bahrain Grand Prix,990,23817,2018,23812,12,16
+5,Toro Rosso,Bahrain Grand Prix,990,23818,2018,23813,11,17
+6,Ferrari,Bahrain Grand Prix,990,23819,2018,23814,2,18
+9,Red Bull,Bahrain Grand Prix,990,23820,2018,23815,15,19
+9,Red Bull,Bahrain Grand Prix,990,23821,2018,23816,4,20
+131,Mercedes,Spanish Grand Prix,993,23862,2018,23857,1,1
+131,Mercedes,Spanish Grand Prix,993,23863,2018,23858,2,2
+9,Red Bull,Spanish Grand Prix,993,23864,2018,23859,5,3
+6,Ferrari,Spanish Grand Prix,993,23865,2018,23860,3,4
+9,Red Bull,Spanish Grand Prix,993,23866,2018,23861,6,5
+210,Haas F1 Team,Spanish Grand Prix,993,23867,2018,23862,7,6
+4,Renault,Spanish Grand Prix,993,23868,2018,23863,9,7
+1,McLaren,Spanish Grand Prix,993,23869,2018,23864,8,8
+10,Force India,Spanish Grand Prix,993,23870,2018,23865,15,9
+15,Sauber,Spanish Grand Prix,993,23871,2018,23866,14,10
+3,Williams,Spanish Grand Prix,993,23872,2018,23867,18,11
+5,Toro Rosso,Spanish Grand Prix,993,23873,2018,23868,20,12
+15,Sauber,Spanish Grand Prix,993,23874,2018,23869,17,13
+3,Williams,Spanish Grand Prix,993,23875,2018,23870,19,14
+1,McLaren,Spanish Grand Prix,993,23876,2018,23871,11,15
+10,Force India,Spanish Grand Prix,993,23877,2018,23872,13,16
+6,Ferrari,Spanish Grand Prix,993,23878,2018,23873,4,17
+210,Haas F1 Team,Spanish Grand Prix,993,23879,2018,23874,10,18
+5,Toro Rosso,Spanish Grand Prix,993,23880,2018,23875,12,19
+4,Renault,Spanish Grand Prix,993,23881,2018,23876,16,20
+9,Red Bull,Austrian Grand Prix,997,23942,2018,23937,4,1
+6,Ferrari,Austrian Grand Prix,997,23943,2018,23938,3,2
+6,Ferrari,Austrian Grand Prix,997,23944,2018,23939,6,3
+210,Haas F1 Team,Austrian Grand Prix,997,23945,2018,23940,5,4
+210,Haas F1 Team,Austrian Grand Prix,997,23946,2018,23941,8,5
+10,Force India,Austrian Grand Prix,997,23947,2018,23942,11,6
+10,Force India,Austrian Grand Prix,997,23948,2018,23943,16,7
+1,McLaren,Austrian Grand Prix,997,23949,2018,23944,13,8
+15,Sauber,Austrian Grand Prix,997,23950,2018,23945,18,9
+15,Sauber,Austrian Grand Prix,997,23951,2018,23946,20,10
+5,Toro Rosso,Austrian Grand Prix,997,23952,2018,23947,12,11
+4,Renault,Austrian Grand Prix,997,23953,2018,23948,9,12
+3,Williams,Austrian Grand Prix,997,23954,2018,23949,17,13
+3,Williams,Austrian Grand Prix,997,23955,2018,23950,14,14
+1,McLaren,Austrian Grand Prix,997,23956,2018,23951,15,15
+131,Mercedes,Austrian Grand Prix,997,23957,2018,23952,2,16
+5,Toro Rosso,Austrian Grand Prix,997,23958,2018,23953,19,17
+9,Red Bull,Austrian Grand Prix,997,23959,2018,23954,7,18
+131,Mercedes,Austrian Grand Prix,997,23960,2018,23955,1,19
+4,Renault,Austrian Grand Prix,997,23961,2018,23956,10,20
+6,Ferrari,British Grand Prix,998,23962,2018,23957,2,1
+131,Mercedes,British Grand Prix,998,23963,2018,23958,1,2
+6,Ferrari,British Grand Prix,998,23964,2018,23959,3,3
+131,Mercedes,British Grand Prix,998,23965,2018,23960,4,4
+9,Red Bull,British Grand Prix,998,23966,2018,23961,6,5
+4,Renault,British Grand Prix,998,23967,2018,23962,11,6
+10,Force India,British Grand Prix,998,23968,2018,23963,10,7
+1,McLaren,British Grand Prix,998,23969,2018,23964,13,8
+210,Haas F1 Team,British Grand Prix,998,23970,2018,23965,7,9
+10,Force India,British Grand Prix,998,23971,2018,23966,12,10
+1,McLaren,British Grand Prix,998,23972,2018,23967,17,11
+3,Williams,British Grand Prix,998,23973,2018,23968,19,12
+5,Toro Rosso,British Grand Prix,998,23974,2018,23969,14,13
+3,Williams,British Grand Prix,998,23975,2018,23970,18,14
+5,Toro Rosso,British Grand Prix,998,23982,2018,23971,0,20
+9,Red Bull,British Grand Prix,998,23977,2018,23972,5,15
+210,Haas F1 Team,British Grand Prix,998,23978,2018,23973,8,16
+4,Renault,British Grand Prix,998,23979,2018,23974,16,17
+15,Sauber,British Grand Prix,998,23980,2018,23975,15,18
+15,Sauber,British Grand Prix,998,23981,2018,23976,9,19
+131,Mercedes,Hungarian Grand Prix,1000,24003,2018,23997,1,1
+6,Ferrari,Hungarian Grand Prix,1000,24004,2018,23998,4,2
+6,Ferrari,Hungarian Grand Prix,1000,24005,2018,23999,3,3
+9,Red Bull,Hungarian Grand Prix,1000,24006,2018,24000,12,4
+131,Mercedes,Hungarian Grand Prix,1000,24007,2018,24001,2,5
+5,Toro Rosso,Hungarian Grand Prix,1000,24008,2018,24002,6,6
+210,Haas F1 Team,Hungarian Grand Prix,1000,24009,2018,24003,9,7
+1,McLaren,Hungarian Grand Prix,1000,24010,2018,24004,11,8
+4,Renault,Hungarian Grand Prix,1000,24011,2018,24005,5,9
+210,Haas F1 Team,Hungarian Grand Prix,1000,24012,2018,24006,10,10
+5,Toro Rosso,Hungarian Grand Prix,1000,24013,2018,24007,8,11
+4,Renault,Hungarian Grand Prix,1000,24014,2018,24008,13,12
+10,Force India,Hungarian Grand Prix,1000,24015,2018,24009,18,13
+10,Force India,Hungarian Grand Prix,1000,24016,2018,24010,19,14
+15,Sauber,Hungarian Grand Prix,1000,24017,2018,24011,14,15
+3,Williams,Hungarian Grand Prix,1000,24018,2018,24012,20,16
+3,Williams,Hungarian Grand Prix,1000,24019,2018,24013,15,17
+1,McLaren,Hungarian Grand Prix,1000,24020,2018,24014,16,18
+9,Red Bull,Hungarian Grand Prix,1000,24021,2018,24015,7,19
+15,Sauber,Hungarian Grand Prix,1000,24022,2018,24016,17,20
+6,Ferrari,Belgian Grand Prix,1001,24023,2018,24017,2,1
+131,Mercedes,Belgian Grand Prix,1001,24024,2018,24018,1,2
+9,Red Bull,Belgian Grand Prix,1001,24025,2018,24019,7,3
+131,Mercedes,Belgian Grand Prix,1001,24026,2018,24020,19,4
+10,Force India,Belgian Grand Prix,1001,24027,2018,24021,4,5
+10,Force India,Belgian Grand Prix,1001,24028,2018,24022,3,6
+210,Haas F1 Team,Belgian Grand Prix,1001,24029,2018,24023,5,7
+210,Haas F1 Team,Belgian Grand Prix,1001,24030,2018,24024,9,8
+5,Toro Rosso,Belgian Grand Prix,1001,24031,2018,24025,10,9
+15,Sauber,Belgian Grand Prix,1001,24032,2018,24026,13,10
+4,Renault,Belgian Grand Prix,1001,24033,2018,24027,14,11
+3,Williams,Belgian Grand Prix,1001,24034,2018,24028,16,12
+3,Williams,Belgian Grand Prix,1001,24035,2018,24029,17,13
+5,Toro Rosso,Belgian Grand Prix,1001,24036,2018,24030,11,14
+1,McLaren,Belgian Grand Prix,1001,24037,2018,24031,18,15
+9,Red Bull,Belgian Grand Prix,1001,24038,2018,24032,8,16
+6,Ferrari,Belgian Grand Prix,1001,24039,2018,24033,6,17
+15,Sauber,Belgian Grand Prix,1001,24040,2018,24034,12,18
+1,McLaren,Belgian Grand Prix,1001,24041,2018,24035,15,19
+4,Renault,Belgian Grand Prix,1001,24042,2018,24036,20,20
+131,Mercedes,Italian Grand Prix,1002,24043,2018,24037,3,1
+6,Ferrari,Italian Grand Prix,1002,24044,2018,24038,1,2
+131,Mercedes,Italian Grand Prix,1002,24045,2018,24039,4,3
+6,Ferrari,Italian Grand Prix,1002,24046,2018,24040,2,4
+9,Red Bull,Italian Grand Prix,1002,24047,2018,24041,5,5
+10,Force India,Italian Grand Prix,1002,24048,2018,24042,8,6
+10,Force India,Italian Grand Prix,1002,24049,2018,24043,14,7
+4,Renault,Italian Grand Prix,1002,24050,2018,24044,7,8
+3,Williams,Italian Grand Prix,1002,24051,2018,24045,10,9
+3,Williams,Italian Grand Prix,1002,24052,2018,24046,12,10
+15,Sauber,Italian Grand Prix,1002,24053,2018,24047,15,11
+1,McLaren,Italian Grand Prix,1002,24054,2018,24048,17,12
+4,Renault,Italian Grand Prix,1002,24055,2018,24049,20,13
+5,Toro Rosso,Italian Grand Prix,1002,24056,2018,24050,9,14
+15,Sauber,Italian Grand Prix,1002,24057,2018,24051,18,15
+210,Haas F1 Team,Italian Grand Prix,1002,24058,2018,24052,11,16
+9,Red Bull,Italian Grand Prix,1002,24059,2018,24053,19,17
+1,McLaren,Italian Grand Prix,1002,24060,2018,24054,13,18
+5,Toro Rosso,Italian Grand Prix,1002,24061,2018,24055,16,19
+210,Haas F1 Team,Italian Grand Prix,1002,24062,2018,24056,6,20
+131,Mercedes,Russian Grand Prix,1004,24083,2018,24077,2,1
+131,Mercedes,Russian Grand Prix,1004,24084,2018,24078,1,2
+6,Ferrari,Russian Grand Prix,1004,24085,2018,24079,3,3
+6,Ferrari,Russian Grand Prix,1004,24086,2018,24080,4,4
+9,Red Bull,Russian Grand Prix,1004,24087,2018,24081,19,5
+9,Red Bull,Russian Grand Prix,1004,24088,2018,24082,18,6
+15,Sauber,Russian Grand Prix,1004,24089,2018,24083,7,7
+210,Haas F1 Team,Russian Grand Prix,1004,24090,2018,24084,5,8
+10,Force India,Russian Grand Prix,1004,24091,2018,24085,6,9
+10,Force India,Russian Grand Prix,1004,24092,2018,24086,8,10
+210,Haas F1 Team,Russian Grand Prix,1004,24093,2018,24087,9,11
+4,Renault,Russian Grand Prix,1004,24094,2018,24088,12,12
+15,Sauber,Russian Grand Prix,1004,24095,2018,24089,10,13
+1,McLaren,Russian Grand Prix,1004,24096,2018,24090,16,14
+3,Williams,Russian Grand Prix,1004,24097,2018,24091,14,15
+1,McLaren,Russian Grand Prix,1004,24098,2018,24092,15,16
+4,Renault,Russian Grand Prix,1004,24099,2018,24093,11,17
+3,Williams,Russian Grand Prix,1004,24100,2018,24094,13,18
+5,Toro Rosso,Russian Grand Prix,1004,24101,2018,24095,17,19
+5,Toro Rosso,Russian Grand Prix,1004,24102,2018,24096,20,20
+131,Mercedes,Abu Dhabi Grand Prix,1009,24183,2018,24177,1,1
+6,Ferrari,Abu Dhabi Grand Prix,1009,24184,2018,24178,3,2
+9,Red Bull,Abu Dhabi Grand Prix,1009,24185,2018,24179,6,3
+9,Red Bull,Abu Dhabi Grand Prix,1009,24186,2018,24180,5,4
+131,Mercedes,Abu Dhabi Grand Prix,1009,24187,2018,24181,2,5
+4,Renault,Abu Dhabi Grand Prix,1009,24188,2018,24182,11,6
+15,Sauber,Abu Dhabi Grand Prix,1009,24189,2018,24183,8,7
+10,Force India,Abu Dhabi Grand Prix,1009,24190,2018,24184,14,8
+210,Haas F1 Team,Abu Dhabi Grand Prix,1009,24191,2018,24185,7,9
+210,Haas F1 Team,Abu Dhabi Grand Prix,1009,24192,2018,24186,13,10
+1,McLaren,Abu Dhabi Grand Prix,1009,24193,2018,24187,15,11
+5,Toro Rosso,Abu Dhabi Grand Prix,1009,24194,2018,24188,16,12
+3,Williams,Abu Dhabi Grand Prix,1009,24195,2018,24189,20,13
+1,McLaren,Abu Dhabi Grand Prix,1009,24196,2018,24190,18,14
+3,Williams,Abu Dhabi Grand Prix,1009,24197,2018,24191,19,15
+5,Toro Rosso,Abu Dhabi Grand Prix,1009,24198,2018,24192,17,16
+10,Force India,Abu Dhabi Grand Prix,1009,24199,2018,24193,9,17
+15,Sauber,Abu Dhabi Grand Prix,1009,24200,2018,24194,12,18
+6,Ferrari,Abu Dhabi Grand Prix,1009,24201,2018,24195,4,19
+4,Renault,Abu Dhabi Grand Prix,1009,24202,2018,24196,10,20
+131,Mercedes,Bahrain Grand Prix,1011,24223,2019,24217,3,1
+131,Mercedes,Bahrain Grand Prix,1011,24224,2019,24218,4,2
+6,Ferrari,Bahrain Grand Prix,1011,24225,2019,24219,1,3
+9,Red Bull,Bahrain Grand Prix,1011,24226,2019,24220,5,4
+6,Ferrari,Bahrain Grand Prix,1011,24227,2019,24221,2,5
+1,McLaren,Bahrain Grand Prix,1011,24228,2019,24222,9,6
+51,Alfa Romeo,Bahrain Grand Prix,1011,24229,2019,24223,8,7
+9,Red Bull,Bahrain Grand Prix,1011,24230,2019,24224,13,8
+5,Toro Rosso,Bahrain Grand Prix,1011,24231,2019,24225,12,9
+211,Racing Point,Bahrain Grand Prix,1011,24232,2019,24226,14,10
+51,Alfa Romeo,Bahrain Grand Prix,1011,24233,2019,24227,16,11
+5,Toro Rosso,Bahrain Grand Prix,1011,24234,2019,24228,15,12
+210,Haas F1 Team,Bahrain Grand Prix,1011,24235,2019,24229,6,13
+211,Racing Point,Bahrain Grand Prix,1011,24236,2019,24230,18,14
+3,Williams,Bahrain Grand Prix,1011,24237,2019,24231,19,15
+3,Williams,Bahrain Grand Prix,1011,24238,2019,24232,20,16
+4,Renault,Bahrain Grand Prix,1011,24239,2019,24233,17,17
+4,Renault,Bahrain Grand Prix,1011,24240,2019,24234,10,18
+1,McLaren,Bahrain Grand Prix,1011,24241,2019,24235,7,19
+210,Haas F1 Team,Bahrain Grand Prix,1011,24242,2019,24236,11,20
+131,Mercedes,Spanish Grand Prix,1014,24283,2019,24277,2,1
+131,Mercedes,Spanish Grand Prix,1014,24284,2019,24278,1,2
+9,Red Bull,Spanish Grand Prix,1014,24285,2019,24279,4,3
+6,Ferrari,Spanish Grand Prix,1014,24286,2019,24280,3,4
+6,Ferrari,Spanish Grand Prix,1014,24287,2019,24281,5,5
+9,Red Bull,Spanish Grand Prix,1014,24288,2019,24282,6,6
+210,Haas F1 Team,Spanish Grand Prix,1014,24289,2019,24283,8,7
+1,McLaren,Spanish Grand Prix,1014,24290,2019,24284,12,8
+5,Toro Rosso,Spanish Grand Prix,1014,24291,2019,24285,9,9
+210,Haas F1 Team,Spanish Grand Prix,1014,24292,2019,24286,7,10
+5,Toro Rosso,Spanish Grand Prix,1014,24293,2019,24287,11,11
+4,Renault,Spanish Grand Prix,1014,24294,2019,24288,13,12
+4,Renault,Spanish Grand Prix,1014,24295,2019,24289,0,13
+51,Alfa Romeo,Spanish Grand Prix,1014,24296,2019,24290,14,14
+211,Racing Point,Spanish Grand Prix,1014,24297,2019,24291,15,15
+51,Alfa Romeo,Spanish Grand Prix,1014,24298,2019,24292,18,16
+3,Williams,Spanish Grand Prix,1014,24299,2019,24293,19,17
+3,Williams,Spanish Grand Prix,1014,24300,2019,24294,17,18
+211,Racing Point,Spanish Grand Prix,1014,24301,2019,24295,16,19
+1,McLaren,Spanish Grand Prix,1014,24302,2019,24296,10,20
+9,Red Bull,Austrian Grand Prix,1018,24366,2019,24360,2,1
+6,Ferrari,Austrian Grand Prix,1018,24367,2019,24361,1,2
+131,Mercedes,Austrian Grand Prix,1018,24368,2019,24362,3,3
+6,Ferrari,Austrian Grand Prix,1018,24369,2019,24363,9,4
+131,Mercedes,Austrian Grand Prix,1018,24370,2019,24364,4,5
+1,McLaren,Austrian Grand Prix,1018,24371,2019,24365,5,6
+9,Red Bull,Austrian Grand Prix,1018,24372,2019,24366,8,7
+1,McLaren,Austrian Grand Prix,1018,24373,2019,24367,19,8
+51,Alfa Romeo,Austrian Grand Prix,1018,24374,2019,24368,6,9
+51,Alfa Romeo,Austrian Grand Prix,1018,24375,2019,24369,7,10
+211,Racing Point,Austrian Grand Prix,1018,24376,2019,24370,13,11
+4,Renault,Austrian Grand Prix,1018,24377,2019,24371,12,12
+4,Renault,Austrian Grand Prix,1018,24378,2019,24372,15,13
+211,Racing Point,Austrian Grand Prix,1018,24379,2019,24373,14,14
+5,Toro Rosso,Austrian Grand Prix,1018,24380,2019,24374,18,15
+210,Haas F1 Team,Austrian Grand Prix,1018,24381,2019,24375,11,16
+5,Toro Rosso,Austrian Grand Prix,1018,24382,2019,24376,16,17
+3,Williams,Austrian Grand Prix,1018,24383,2019,24377,0,18
+210,Haas F1 Team,Austrian Grand Prix,1018,24384,2019,24378,10,19
+3,Williams,Austrian Grand Prix,1018,24385,2019,24379,17,20
+131,Mercedes,British Grand Prix,1019,24386,2019,24380,2,1
+131,Mercedes,British Grand Prix,1019,24387,2019,24381,1,2
+6,Ferrari,British Grand Prix,1019,24388,2019,24382,3,3
+9,Red Bull,British Grand Prix,1019,24389,2019,24383,5,4
+9,Red Bull,British Grand Prix,1019,24390,2019,24384,4,5
+1,McLaren,British Grand Prix,1019,24391,2019,24385,13,6
+4,Renault,British Grand Prix,1019,24392,2019,24386,7,7
+51,Alfa Romeo,British Grand Prix,1019,24393,2019,24387,12,8
+5,Toro Rosso,British Grand Prix,1019,24394,2019,24388,17,9
+4,Renault,British Grand Prix,1019,24395,2019,24389,10,10
+1,McLaren,British Grand Prix,1019,24396,2019,24390,8,11
+5,Toro Rosso,British Grand Prix,1019,24397,2019,24391,9,12
+211,Racing Point,British Grand Prix,1019,24398,2019,24392,18,13
+3,Williams,British Grand Prix,1019,24399,2019,24393,19,14
+3,Williams,British Grand Prix,1019,24400,2019,24394,20,15
+6,Ferrari,British Grand Prix,1019,24401,2019,24395,6,16
+211,Racing Point,British Grand Prix,1019,24402,2019,24396,15,17
+51,Alfa Romeo,British Grand Prix,1019,24403,2019,24397,11,18
+210,Haas F1 Team,British Grand Prix,1019,24404,2019,24398,14,19
+210,Haas F1 Team,British Grand Prix,1019,24405,2019,24399,16,20
+131,Mercedes,Hungarian Grand Prix,1021,24426,2019,24420,3,1
+9,Red Bull,Hungarian Grand Prix,1021,24427,2019,24421,1,2
+6,Ferrari,Hungarian Grand Prix,1021,24428,2019,24422,5,3
+6,Ferrari,Hungarian Grand Prix,1021,24429,2019,24423,4,4
+1,McLaren,Hungarian Grand Prix,1021,24430,2019,24424,8,5
+9,Red Bull,Hungarian Grand Prix,1021,24431,2019,24425,6,6
+51,Alfa Romeo,Hungarian Grand Prix,1021,24432,2019,24426,10,7
+131,Mercedes,Hungarian Grand Prix,1021,24433,2019,24427,2,8
+1,McLaren,Hungarian Grand Prix,1021,24434,2019,24428,7,9
+5,Toro Rosso,Hungarian Grand Prix,1021,24435,2019,24429,12,10
+211,Racing Point,Hungarian Grand Prix,1021,24436,2019,24430,16,11
+4,Renault,Hungarian Grand Prix,1021,24437,2019,24431,11,12
+210,Haas F1 Team,Hungarian Grand Prix,1021,24438,2019,24432,14,13
+4,Renault,Hungarian Grand Prix,1021,24439,2019,24433,20,14
+5,Toro Rosso,Hungarian Grand Prix,1021,24440,2019,24434,13,15
+3,Williams,Hungarian Grand Prix,1021,24441,2019,24435,15,16
+211,Racing Point,Hungarian Grand Prix,1021,24442,2019,24436,18,17
+51,Alfa Romeo,Hungarian Grand Prix,1021,24443,2019,24437,17,18
+3,Williams,Hungarian Grand Prix,1021,24444,2019,24438,19,19
+210,Haas F1 Team,Hungarian Grand Prix,1021,24445,2019,24439,9,20
+6,Ferrari,Belgian Grand Prix,1022,24446,2019,24440,1,1
+131,Mercedes,Belgian Grand Prix,1022,24447,2019,24441,3,2
+131,Mercedes,Belgian Grand Prix,1022,24448,2019,24442,4,3
+6,Ferrari,Belgian Grand Prix,1022,24449,2019,24443,2,4
+9,Red Bull,Belgian Grand Prix,1022,24450,2019,24444,17,5
+211,Racing Point,Belgian Grand Prix,1022,24451,2019,24445,7,6
+5,Toro Rosso,Belgian Grand Prix,1022,24452,2019,24446,19,7
+4,Renault,Belgian Grand Prix,1022,24453,2019,24447,12,8
+5,Toro Rosso,Belgian Grand Prix,1022,24454,2019,24448,13,9
+211,Racing Point,Belgian Grand Prix,1022,24455,2019,24449,16,10
+1,McLaren,Belgian Grand Prix,1022,24456,2019,24450,11,11
+210,Haas F1 Team,Belgian Grand Prix,1022,24457,2019,24451,8,12
+210,Haas F1 Team,Belgian Grand Prix,1022,24458,2019,24452,9,13
+4,Renault,Belgian Grand Prix,1022,24459,2019,24453,10,14
+3,Williams,Belgian Grand Prix,1022,24460,2019,24454,14,15
+51,Alfa Romeo,Belgian Grand Prix,1022,24461,2019,24455,6,16
+3,Williams,Belgian Grand Prix,1022,24462,2019,24456,0,17
+51,Alfa Romeo,Belgian Grand Prix,1022,24463,2019,24457,18,18
+1,McLaren,Belgian Grand Prix,1022,24464,2019,24458,15,19
+9,Red Bull,Belgian Grand Prix,1022,24465,2019,24459,5,20
+6,Ferrari,Italian Grand Prix,1023,24466,2019,24460,1,1
+131,Mercedes,Italian Grand Prix,1023,24467,2019,24461,3,2
+131,Mercedes,Italian Grand Prix,1023,24468,2019,24462,2,3
+4,Renault,Italian Grand Prix,1023,24469,2019,24463,5,4
+4,Renault,Italian Grand Prix,1023,24470,2019,24464,6,5
+9,Red Bull,Italian Grand Prix,1023,24471,2019,24465,8,6
+211,Racing Point,Italian Grand Prix,1023,24472,2019,24466,18,7
+9,Red Bull,Italian Grand Prix,1023,24473,2019,24467,19,8
+51,Alfa Romeo,Italian Grand Prix,1023,24474,2019,24468,10,9
+1,McLaren,Italian Grand Prix,1023,24475,2019,24469,16,10
+5,Toro Rosso,Italian Grand Prix,1023,24476,2019,24470,17,11
+211,Racing Point,Italian Grand Prix,1023,24477,2019,24471,9,12
+6,Ferrari,Italian Grand Prix,1023,24478,2019,24472,4,13
+3,Williams,Italian Grand Prix,1023,24479,2019,24473,14,14
+51,Alfa Romeo,Italian Grand Prix,1023,24480,2019,24474,0,15
+210,Haas F1 Team,Italian Grand Prix,1023,24481,2019,24475,13,16
+3,Williams,Italian Grand Prix,1023,24482,2019,24476,15,17
+210,Haas F1 Team,Italian Grand Prix,1023,24483,2019,24477,11,18
+5,Toro Rosso,Italian Grand Prix,1023,24484,2019,24478,12,19
+1,McLaren,Italian Grand Prix,1023,24485,2019,24479,7,20
+131,Mercedes,Russian Grand Prix,1025,24506,2019,24500,2,1
+131,Mercedes,Russian Grand Prix,1025,24507,2019,24501,4,2
+6,Ferrari,Russian Grand Prix,1025,24508,2019,24502,1,3
+9,Red Bull,Russian Grand Prix,1025,24509,2019,24503,9,4
+9,Red Bull,Russian Grand Prix,1025,24510,2019,24504,0,5
+1,McLaren,Russian Grand Prix,1025,24511,2019,24505,5,6
+211,Racing Point,Russian Grand Prix,1025,24512,2019,24506,11,7
+1,McLaren,Russian Grand Prix,1025,24513,2019,24507,7,8
+210,Haas F1 Team,Russian Grand Prix,1025,24514,2019,24508,13,9
+4,Renault,Russian Grand Prix,1025,24515,2019,24509,6,10
+211,Racing Point,Russian Grand Prix,1025,24516,2019,24510,14,11
+5,Toro Rosso,Russian Grand Prix,1025,24517,2019,24511,19,12
+51,Alfa Romeo,Russian Grand Prix,1025,24518,2019,24512,15,13
+5,Toro Rosso,Russian Grand Prix,1025,24519,2019,24513,16,14
+51,Alfa Romeo,Russian Grand Prix,1025,24520,2019,24514,12,15
+3,Williams,Russian Grand Prix,1025,24521,2019,24515,18,16
+3,Williams,Russian Grand Prix,1025,24522,2019,24516,17,17
+6,Ferrari,Russian Grand Prix,1025,24523,2019,24517,3,18
+4,Renault,Russian Grand Prix,1025,24524,2019,24518,10,19
+210,Haas F1 Team,Russian Grand Prix,1025,24525,2019,24519,8,20
+131,Mercedes,Austrian Grand Prix,1031,24626,2020,24560,1,1
+131,Mercedes,Abu Dhabi Grand Prix,1030,24606,2019,24601,1,1
+9,Red Bull,Abu Dhabi Grand Prix,1030,24607,2019,24602,2,2
+6,Ferrari,Abu Dhabi Grand Prix,1030,24608,2019,24603,3,3
+131,Mercedes,Abu Dhabi Grand Prix,1030,24609,2019,24604,20,4
+6,Ferrari,Abu Dhabi Grand Prix,1030,24610,2019,24605,4,5
+9,Red Bull,Abu Dhabi Grand Prix,1030,24611,2019,24606,5,6
+211,Racing Point,Abu Dhabi Grand Prix,1030,24612,2019,24607,10,7
+1,McLaren,Abu Dhabi Grand Prix,1030,24613,2019,24608,6,8
+5,Toro Rosso,Abu Dhabi Grand Prix,1030,24614,2019,24609,13,9
+1,McLaren,Abu Dhabi Grand Prix,1030,24615,2019,24610,8,10
+4,Renault,Abu Dhabi Grand Prix,1030,24616,2019,24611,7,11
+4,Renault,Abu Dhabi Grand Prix,1030,24617,2019,24612,9,12
+51,Alfa Romeo,Abu Dhabi Grand Prix,1030,24618,2019,24613,17,13
+210,Haas F1 Team,Abu Dhabi Grand Prix,1030,24619,2019,24614,14,14
+210,Haas F1 Team,Abu Dhabi Grand Prix,1030,24620,2019,24615,15,15
+51,Alfa Romeo,Abu Dhabi Grand Prix,1030,24621,2019,24616,16,16
+3,Williams,Abu Dhabi Grand Prix,1030,24622,2019,24617,18,17
+5,Toro Rosso,Abu Dhabi Grand Prix,1030,24623,2019,24618,11,18
+3,Williams,Abu Dhabi Grand Prix,1030,24624,2019,24619,19,19
+211,Racing Point,Abu Dhabi Grand Prix,1030,24625,2019,24620,12,20
+6,Ferrari,Austrian Grand Prix,1031,24627,2020,24621,7,2
+1,McLaren,Austrian Grand Prix,1031,24628,2020,24622,3,3
+131,Mercedes,Austrian Grand Prix,1031,24629,2020,24623,5,4
+1,McLaren,Austrian Grand Prix,1031,24630,2020,24624,8,5
+211,Racing Point,Austrian Grand Prix,1031,24631,2020,24625,6,6
+213,AlphaTauri,Austrian Grand Prix,1031,24632,2020,24626,12,7
+4,Renault,Austrian Grand Prix,1031,24633,2020,24627,14,8
+51,Alfa Romeo,Austrian Grand Prix,1031,24634,2020,24628,18,9
+6,Ferrari,Austrian Grand Prix,1031,24635,2020,24629,11,10
+3,Williams,Austrian Grand Prix,1031,24636,2020,24630,20,11
+213,AlphaTauri,Austrian Grand Prix,1031,24637,2020,24631,13,12
+9,Red Bull,Austrian Grand Prix,1031,24638,2020,24632,4,13
+51,Alfa Romeo,Austrian Grand Prix,1031,24639,2020,24633,19,14
+3,Williams,Austrian Grand Prix,1031,24640,2020,24634,17,15
+210,Haas F1 Team,Austrian Grand Prix,1031,24641,2020,24635,15,16
+210,Haas F1 Team,Austrian Grand Prix,1031,24642,2020,24636,16,17
+211,Racing Point,Austrian Grand Prix,1031,24643,2020,24637,9,18
+4,Renault,Austrian Grand Prix,1031,24644,2020,24638,10,19
+9,Red Bull,Austrian Grand Prix,1031,24645,2020,24639,2,20
+131,Mercedes,Styrian Grand Prix,1032,24646,2020,24640,1,1
+131,Mercedes,Styrian Grand Prix,1032,24647,2020,24641,4,2
+9,Red Bull,Styrian Grand Prix,1032,24648,2020,24642,2,3
+9,Red Bull,Styrian Grand Prix,1032,24649,2020,24643,6,4
+1,McLaren,Styrian Grand Prix,1032,24650,2020,24644,9,5
+211,Racing Point,Styrian Grand Prix,1032,24651,2020,24645,17,6
+211,Racing Point,Styrian Grand Prix,1032,24652,2020,24646,12,7
+4,Renault,Styrian Grand Prix,1032,24653,2020,24647,8,8
+1,McLaren,Styrian Grand Prix,1032,24654,2020,24648,3,9
+213,AlphaTauri,Styrian Grand Prix,1032,24655,2020,24649,13,10
+51,Alfa Romeo,Styrian Grand Prix,1032,24656,2020,24650,16,11
+210,Haas F1 Team,Styrian Grand Prix,1032,24657,2020,24651,15,12
+210,Haas F1 Team,Styrian Grand Prix,1032,24658,2020,24652,0,13
+51,Alfa Romeo,Styrian Grand Prix,1032,24659,2020,24653,19,14
+213,AlphaTauri,Styrian Grand Prix,1032,24660,2020,24654,7,15
+3,Williams,Styrian Grand Prix,1032,24661,2020,24655,11,16
+3,Williams,Styrian Grand Prix,1032,24662,2020,24656,18,17
+4,Renault,Styrian Grand Prix,1032,24663,2020,24657,5,18
+6,Ferrari,Styrian Grand Prix,1032,24664,2020,24658,14,19
+6,Ferrari,Styrian Grand Prix,1032,24665,2020,24659,10,20
+131,Mercedes,Hungarian Grand Prix,1033,24666,2020,24660,1,1
+9,Red Bull,Hungarian Grand Prix,1033,24667,2020,24661,7,2
+131,Mercedes,Hungarian Grand Prix,1033,24668,2020,24662,2,3
+211,Racing Point,Hungarian Grand Prix,1033,24669,2020,24663,3,4
+9,Red Bull,Hungarian Grand Prix,1033,24670,2020,24664,13,5
+6,Ferrari,Hungarian Grand Prix,1033,24671,2020,24665,5,6
+211,Racing Point,Hungarian Grand Prix,1033,24672,2020,24666,4,7
+4,Renault,Hungarian Grand Prix,1033,24673,2020,24667,11,8
+1,McLaren,Hungarian Grand Prix,1033,24674,2020,24668,9,9
+210,Haas F1 Team,Hungarian Grand Prix,1033,24675,2020,24669,0,10
+6,Ferrari,Hungarian Grand Prix,1033,24676,2020,24670,6,11
+213,AlphaTauri,Hungarian Grand Prix,1033,24677,2020,24671,17,12
+1,McLaren,Hungarian Grand Prix,1033,24678,2020,24672,8,13
+4,Renault,Hungarian Grand Prix,1033,24679,2020,24673,14,14
+51,Alfa Romeo,Hungarian Grand Prix,1033,24680,2020,24674,20,15
+210,Haas F1 Team,Hungarian Grand Prix,1033,24681,2020,24675,0,16
+51,Alfa Romeo,Hungarian Grand Prix,1033,24682,2020,24676,19,17
+3,Williams,Hungarian Grand Prix,1033,24683,2020,24677,12,18
+3,Williams,Hungarian Grand Prix,1033,24684,2020,24678,15,19
+213,AlphaTauri,Hungarian Grand Prix,1033,24685,2020,24679,10,20
+131,Mercedes,British Grand Prix,1034,24686,2020,24680,1,1
+9,Red Bull,British Grand Prix,1034,24687,2020,24681,3,2
+6,Ferrari,British Grand Prix,1034,24688,2020,24682,4,3
+4,Renault,British Grand Prix,1034,24689,2020,24683,8,4
+1,McLaren,British Grand Prix,1034,24690,2020,24684,5,5
+4,Renault,British Grand Prix,1034,24691,2020,24685,9,6
+213,AlphaTauri,British Grand Prix,1034,24692,2020,24686,11,7
+9,Red Bull,British Grand Prix,1034,24693,2020,24687,12,8
+211,Racing Point,British Grand Prix,1034,24694,2020,24688,6,9
+6,Ferrari,British Grand Prix,1034,24695,2020,24689,10,10
+131,Mercedes,British Grand Prix,1034,24696,2020,24690,2,11
+3,Williams,British Grand Prix,1034,24697,2020,24691,20,12
+1,McLaren,British Grand Prix,1034,24698,2020,24692,7,13
+51,Alfa Romeo,British Grand Prix,1034,24699,2020,24693,15,14
+3,Williams,British Grand Prix,1034,24700,2020,24694,18,15
+210,Haas F1 Team,British Grand Prix,1034,24701,2020,24695,17,16
+51,Alfa Romeo,British Grand Prix,1034,24702,2020,24696,16,17
+213,AlphaTauri,British Grand Prix,1034,24703,2020,24697,19,18
+210,Haas F1 Team,British Grand Prix,1034,24704,2020,24698,14,19
+211,Racing Point,British Grand Prix,1034,24705,2020,24699,13,20
+9,Red Bull,70th Anniversary Grand Prix,1035,24706,2020,24700,4,1
+131,Mercedes,70th Anniversary Grand Prix,1035,24707,2020,24701,2,2
+131,Mercedes,70th Anniversary Grand Prix,1035,24708,2020,24702,1,3
+6,Ferrari,70th Anniversary Grand Prix,1035,24709,2020,24703,8,4
+9,Red Bull,70th Anniversary Grand Prix,1035,24710,2020,24704,9,5
+211,Racing Point,70th Anniversary Grand Prix,1035,24711,2020,24705,6,6
+211,Racing Point,70th Anniversary Grand Prix,1035,24712,2020,24706,3,7
+4,Renault,70th Anniversary Grand Prix,1035,24713,2020,24707,14,8
+1,McLaren,70th Anniversary Grand Prix,1035,24714,2020,24708,10,9
+213,AlphaTauri,70th Anniversary Grand Prix,1035,24715,2020,24709,16,10
+213,AlphaTauri,70th Anniversary Grand Prix,1035,24716,2020,24710,7,11
+6,Ferrari,70th Anniversary Grand Prix,1035,24717,2020,24711,11,12
+1,McLaren,70th Anniversary Grand Prix,1035,24718,2020,24712,12,13
+4,Renault,70th Anniversary Grand Prix,1035,24719,2020,24713,5,14
+51,Alfa Romeo,70th Anniversary Grand Prix,1035,24720,2020,24714,20,15
+210,Haas F1 Team,70th Anniversary Grand Prix,1035,24721,2020,24715,13,16
+51,Alfa Romeo,70th Anniversary Grand Prix,1035,24722,2020,24716,19,17
+3,Williams,70th Anniversary Grand Prix,1035,24723,2020,24717,15,18
+3,Williams,70th Anniversary Grand Prix,1035,24724,2020,24718,18,19
+210,Haas F1 Team,70th Anniversary Grand Prix,1035,24725,2020,24719,17,20
+131,Mercedes,Spanish Grand Prix,1036,24726,2020,24720,1,1
+9,Red Bull,Spanish Grand Prix,1036,24727,2020,24721,3,2
+131,Mercedes,Spanish Grand Prix,1036,24728,2020,24722,2,3
+211,Racing Point,Spanish Grand Prix,1036,24729,2020,24723,5,4
+211,Racing Point,Spanish Grand Prix,1036,24730,2020,24724,4,5
+1,McLaren,Spanish Grand Prix,1036,24731,2020,24725,7,6
+6,Ferrari,Spanish Grand Prix,1036,24732,2020,24726,11,7
+9,Red Bull,Spanish Grand Prix,1036,24733,2020,24727,6,8
+213,AlphaTauri,Spanish Grand Prix,1036,24734,2020,24728,10,9
+1,McLaren,Spanish Grand Prix,1036,24735,2020,24729,8,10
+4,Renault,Spanish Grand Prix,1036,24736,2020,24730,13,11
+213,AlphaTauri,Spanish Grand Prix,1036,24737,2020,24731,12,12
+4,Renault,Spanish Grand Prix,1036,24738,2020,24732,15,13
+51,Alfa Romeo,Spanish Grand Prix,1036,24739,2020,24733,14,14
+210,Haas F1 Team,Spanish Grand Prix,1036,24740,2020,24734,16,15
+51,Alfa Romeo,Spanish Grand Prix,1036,24741,2020,24735,20,16
+3,Williams,Spanish Grand Prix,1036,24742,2020,24736,18,17
+3,Williams,Spanish Grand Prix,1036,24743,2020,24737,19,18
+210,Haas F1 Team,Spanish Grand Prix,1036,24744,2020,24738,17,19
+6,Ferrari,Spanish Grand Prix,1036,24745,2020,24739,9,20
+131,Mercedes,Belgian Grand Prix,1037,24746,2020,24740,1,1
+131,Mercedes,Belgian Grand Prix,1037,24747,2020,24741,2,2
+9,Red Bull,Belgian Grand Prix,1037,24748,2020,24742,3,3
+4,Renault,Belgian Grand Prix,1037,24749,2020,24743,4,4
+4,Renault,Belgian Grand Prix,1037,24750,2020,24744,6,5
+9,Red Bull,Belgian Grand Prix,1037,24751,2020,24745,5,6
+1,McLaren,Belgian Grand Prix,1037,24752,2020,24746,10,7
+213,AlphaTauri,Belgian Grand Prix,1037,24753,2020,24747,12,8
+211,Racing Point,Belgian Grand Prix,1037,24754,2020,24748,9,9
+211,Racing Point,Belgian Grand Prix,1037,24755,2020,24749,8,10
+213,AlphaTauri,Belgian Grand Prix,1037,24756,2020,24750,11,11
+51,Alfa Romeo,Belgian Grand Prix,1037,24757,2020,24751,16,12
+6,Ferrari,Belgian Grand Prix,1037,24758,2020,24752,14,13
+6,Ferrari,Belgian Grand Prix,1037,24759,2020,24753,13,14
+210,Haas F1 Team,Belgian Grand Prix,1037,24760,2020,24754,17,15
+3,Williams,Belgian Grand Prix,1037,24761,2020,24755,19,16
+210,Haas F1 Team,Belgian Grand Prix,1037,24762,2020,24756,20,17
+51,Alfa Romeo,Belgian Grand Prix,1037,24763,2020,24757,18,18
+3,Williams,Belgian Grand Prix,1037,24764,2020,24758,15,19
+1,McLaren,Belgian Grand Prix,1037,24765,2020,24759,7,20
+213,AlphaTauri,Italian Grand Prix,1038,24766,2020,24760,10,1
+1,McLaren,Italian Grand Prix,1038,24767,2020,24761,3,2
+211,Racing Point,Italian Grand Prix,1038,24768,2020,24762,8,3
+1,McLaren,Italian Grand Prix,1038,24769,2020,24763,6,4
+131,Mercedes,Italian Grand Prix,1038,24770,2020,24764,2,5
+4,Renault,Italian Grand Prix,1038,24771,2020,24765,7,6
+131,Mercedes,Italian Grand Prix,1038,24772,2020,24766,1,7
+4,Renault,Italian Grand Prix,1038,24773,2020,24767,12,8
+213,AlphaTauri,Italian Grand Prix,1038,24774,2020,24768,11,9
+211,Racing Point,Italian Grand Prix,1038,24775,2020,24769,4,10
+3,Williams,Italian Grand Prix,1038,24776,2020,24770,20,11
+210,Haas F1 Team,Italian Grand Prix,1038,24777,2020,24771,16,12
+51,Alfa Romeo,Italian Grand Prix,1038,24778,2020,24772,14,13
+3,Williams,Italian Grand Prix,1038,24779,2020,24773,19,14
+9,Red Bull,Italian Grand Prix,1038,24780,2020,24774,9,15
+51,Alfa Romeo,Italian Grand Prix,1038,24781,2020,24775,18,16
+9,Red Bull,Italian Grand Prix,1038,24782,2020,24776,5,17
+6,Ferrari,Italian Grand Prix,1038,24783,2020,24777,13,18
+210,Haas F1 Team,Italian Grand Prix,1038,24784,2020,24778,15,19
+6,Ferrari,Italian Grand Prix,1038,24785,2020,24779,17,20
+131,Mercedes,Tuscan Grand Prix,1039,24786,2020,24780,1,1
+131,Mercedes,Tuscan Grand Prix,1039,24787,2020,24781,2,2
+9,Red Bull,Tuscan Grand Prix,1039,24788,2020,24782,4,3
+4,Renault,Tuscan Grand Prix,1039,24789,2020,24783,8,4
+211,Racing Point,Tuscan Grand Prix,1039,24790,2020,24784,7,5
+1,McLaren,Tuscan Grand Prix,1039,24791,2020,24785,11,6
+213,AlphaTauri,Tuscan Grand Prix,1039,24792,2020,24786,12,7
+6,Ferrari,Tuscan Grand Prix,1039,24793,2020,24787,5,8
+51,Alfa Romeo,Tuscan Grand Prix,1039,24794,2020,24788,13,9
+6,Ferrari,Tuscan Grand Prix,1039,24795,2020,24789,14,10
+3,Williams,Tuscan Grand Prix,1039,24796,2020,24790,18,11
+210,Haas F1 Team,Tuscan Grand Prix,1039,24797,2020,24791,15,12
+211,Racing Point,Tuscan Grand Prix,1039,24798,2020,24792,6,13
+4,Renault,Tuscan Grand Prix,1039,24799,2020,24793,10,14
+3,Williams,Tuscan Grand Prix,1039,24800,2020,24794,19,15
+210,Haas F1 Team,Tuscan Grand Prix,1039,24801,2020,24795,20,16
+51,Alfa Romeo,Tuscan Grand Prix,1039,24802,2020,24796,17,17
+1,McLaren,Tuscan Grand Prix,1039,24803,2020,24797,9,18
+9,Red Bull,Tuscan Grand Prix,1039,24804,2020,24798,3,19
+213,AlphaTauri,Tuscan Grand Prix,1039,24805,2020,24799,16,20
+131,Mercedes,Russian Grand Prix,1040,24806,2020,24800,3,1
+9,Red Bull,Russian Grand Prix,1040,24807,2020,24801,2,2
+131,Mercedes,Russian Grand Prix,1040,24808,2020,24802,1,3
+211,Racing Point,Russian Grand Prix,1040,24809,2020,24803,4,4
+4,Renault,Russian Grand Prix,1040,24810,2020,24804,5,5
+6,Ferrari,Russian Grand Prix,1040,24811,2020,24805,10,6
+4,Renault,Russian Grand Prix,1040,24812,2020,24806,7,7
+213,AlphaTauri,Russian Grand Prix,1040,24813,2020,24807,11,8
+213,AlphaTauri,Russian Grand Prix,1040,24814,2020,24808,9,9
+9,Red Bull,Russian Grand Prix,1040,24815,2020,24809,15,10
+51,Alfa Romeo,Russian Grand Prix,1040,24816,2020,24810,17,11
+210,Haas F1 Team,Russian Grand Prix,1040,24817,2020,24811,18,12
+6,Ferrari,Russian Grand Prix,1040,24818,2020,24812,14,13
+51,Alfa Romeo,Russian Grand Prix,1040,24819,2020,24813,19,14
+1,McLaren,Russian Grand Prix,1040,24820,2020,24814,8,15
+3,Williams,Russian Grand Prix,1040,24821,2020,24815,20,16
+210,Haas F1 Team,Russian Grand Prix,1040,24822,2020,24816,16,17
+3,Williams,Russian Grand Prix,1040,24823,2020,24817,13,18
+1,McLaren,Russian Grand Prix,1040,24824,2020,24818,6,19
+211,Racing Point,Russian Grand Prix,1040,24825,2020,24819,12,20
+131,Mercedes,Eifel Grand Prix,1041,24826,2020,24820,2,1
+9,Red Bull,Eifel Grand Prix,1041,24827,2020,24821,3,2
+4,Renault,Eifel Grand Prix,1041,24828,2020,24822,6,3
+211,Racing Point,Eifel Grand Prix,1041,24829,2020,24823,9,4
+1,McLaren,Eifel Grand Prix,1041,24830,2020,24824,10,5
+213,AlphaTauri,Eifel Grand Prix,1041,24831,2020,24825,12,6
+6,Ferrari,Eifel Grand Prix,1041,24832,2020,24826,4,7
+211,Racing Point,Eifel Grand Prix,1041,24833,2020,24827,20,8
+210,Haas F1 Team,Eifel Grand Prix,1041,24834,2020,24828,16,9
+51,Alfa Romeo,Eifel Grand Prix,1041,24835,2020,24829,14,10
+6,Ferrari,Eifel Grand Prix,1041,24836,2020,24830,11,11
+51,Alfa Romeo,Eifel Grand Prix,1041,24837,2020,24831,19,12
+210,Haas F1 Team,Eifel Grand Prix,1041,24838,2020,24832,15,13
+3,Williams,Eifel Grand Prix,1041,24839,2020,24833,18,14
+213,AlphaTauri,Eifel Grand Prix,1041,24840,2020,24834,13,15
+1,McLaren,Eifel Grand Prix,1041,24841,2020,24835,8,16
+9,Red Bull,Eifel Grand Prix,1041,24842,2020,24836,5,17
+4,Renault,Eifel Grand Prix,1041,24843,2020,24837,7,18
+131,Mercedes,Eifel Grand Prix,1041,24844,2020,24838,1,19
+3,Williams,Eifel Grand Prix,1041,24845,2020,24839,17,20
+131,Mercedes,Portuguese Grand Prix,1042,24846,2020,24840,1,1
+131,Mercedes,Portuguese Grand Prix,1042,24847,2020,24841,2,2
+9,Red Bull,Portuguese Grand Prix,1042,24848,2020,24842,3,3
+6,Ferrari,Portuguese Grand Prix,1042,24849,2020,24843,4,4
+213,AlphaTauri,Portuguese Grand Prix,1042,24850,2020,24844,9,5
+1,McLaren,Portuguese Grand Prix,1042,24851,2020,24845,7,6
+211,Racing Point,Portuguese Grand Prix,1042,24852,2020,24846,5,7
+4,Renault,Portuguese Grand Prix,1042,24853,2020,24847,11,8
+4,Renault,Portuguese Grand Prix,1042,24854,2020,24848,10,9
+6,Ferrari,Portuguese Grand Prix,1042,24855,2020,24849,15,10
+51,Alfa Romeo,Portuguese Grand Prix,1042,24856,2020,24850,16,11
+9,Red Bull,Portuguese Grand Prix,1042,24857,2020,24851,6,12
+1,McLaren,Portuguese Grand Prix,1042,24858,2020,24852,8,13
+3,Williams,Portuguese Grand Prix,1042,24859,2020,24853,14,14
+51,Alfa Romeo,Portuguese Grand Prix,1042,24860,2020,24854,17,15
+210,Haas F1 Team,Portuguese Grand Prix,1042,24861,2020,24855,19,16
+210,Haas F1 Team,Portuguese Grand Prix,1042,24862,2020,24856,18,17
+3,Williams,Portuguese Grand Prix,1042,24863,2020,24857,20,18
+213,AlphaTauri,Portuguese Grand Prix,1042,24864,2020,24858,13,19
+211,Racing Point,Portuguese Grand Prix,1042,24865,2020,24859,12,20
+131,Mercedes,Emilia Romagna Grand Prix,1043,24866,2020,24860,2,1
+131,Mercedes,Emilia Romagna Grand Prix,1043,24867,2020,24861,1,2
+4,Renault,Emilia Romagna Grand Prix,1043,24868,2020,24862,5,3
+213,AlphaTauri,Emilia Romagna Grand Prix,1043,24869,2020,24863,8,4
+6,Ferrari,Emilia Romagna Grand Prix,1043,24870,2020,24864,7,5
+211,Racing Point,Emilia Romagna Grand Prix,1043,24871,2020,24865,11,6
+1,McLaren,Emilia Romagna Grand Prix,1043,24872,2020,24866,10,7
+1,McLaren,Emilia Romagna Grand Prix,1043,24873,2020,24867,9,8
+51,Alfa Romeo,Emilia Romagna Grand Prix,1043,24874,2020,24868,18,9
+51,Alfa Romeo,Emilia Romagna Grand Prix,1043,24875,2020,24869,20,10
+3,Williams,Emilia Romagna Grand Prix,1043,24876,2020,24870,19,11
+6,Ferrari,Emilia Romagna Grand Prix,1043,24877,2020,24871,14,12
+211,Racing Point,Emilia Romagna Grand Prix,1043,24878,2020,24872,15,13
+210,Haas F1 Team,Emilia Romagna Grand Prix,1043,24879,2020,24873,16,14
+9,Red Bull,Emilia Romagna Grand Prix,1043,24880,2020,24874,6,15
+3,Williams,Emilia Romagna Grand Prix,1043,24881,2020,24875,13,16
+9,Red Bull,Emilia Romagna Grand Prix,1043,24882,2020,24876,3,17
+210,Haas F1 Team,Emilia Romagna Grand Prix,1043,24883,2020,24877,17,18
+4,Renault,Emilia Romagna Grand Prix,1043,24884,2020,24878,12,19
+213,AlphaTauri,Emilia Romagna Grand Prix,1043,24885,2020,24879,4,20
+131,Mercedes,Turkish Grand Prix,1044,24886,2020,24880,6,1
+211,Racing Point,Turkish Grand Prix,1044,24887,2020,24881,3,2
+6,Ferrari,Turkish Grand Prix,1044,24888,2020,24882,11,3
+6,Ferrari,Turkish Grand Prix,1044,24889,2020,24883,12,4
+1,McLaren,Turkish Grand Prix,1044,24890,2020,24884,15,5
+9,Red Bull,Turkish Grand Prix,1044,24891,2020,24885,2,6
+9,Red Bull,Turkish Grand Prix,1044,24892,2020,24886,4,7
+1,McLaren,Turkish Grand Prix,1044,24893,2020,24887,14,8
+211,Racing Point,Turkish Grand Prix,1044,24894,2020,24888,1,9
+4,Renault,Turkish Grand Prix,1044,24895,2020,24889,5,10
+4,Renault,Turkish Grand Prix,1044,24896,2020,24890,7,11
+213,AlphaTauri,Turkish Grand Prix,1044,24897,2020,24891,16,12
+213,AlphaTauri,Turkish Grand Prix,1044,24898,2020,24892,19,13
+131,Mercedes,Turkish Grand Prix,1044,24899,2020,24893,9,14
+51,Alfa Romeo,Turkish Grand Prix,1044,24900,2020,24894,8,15
+3,Williams,Turkish Grand Prix,1044,24901,2020,24895,0,16
+210,Haas F1 Team,Turkish Grand Prix,1044,24902,2020,24896,13,17
+210,Haas F1 Team,Turkish Grand Prix,1044,24903,2020,24897,17,18
+3,Williams,Turkish Grand Prix,1044,24904,2020,24898,0,19
+51,Alfa Romeo,Turkish Grand Prix,1044,24905,2020,24899,10,20
+131,Mercedes,Bahrain Grand Prix,1045,24906,2020,24900,1,1
+9,Red Bull,Bahrain Grand Prix,1045,24907,2020,24901,3,2
+9,Red Bull,Bahrain Grand Prix,1045,24908,2020,24902,4,3
+1,McLaren,Bahrain Grand Prix,1045,24909,2020,24903,9,4
+1,McLaren,Bahrain Grand Prix,1045,24910,2020,24904,15,5
+213,AlphaTauri,Bahrain Grand Prix,1045,24911,2020,24905,8,6
+4,Renault,Bahrain Grand Prix,1045,24912,2020,24906,6,7
+131,Mercedes,Bahrain Grand Prix,1045,24913,2020,24907,2,8
+4,Renault,Bahrain Grand Prix,1045,24914,2020,24908,7,9
+6,Ferrari,Bahrain Grand Prix,1045,24915,2020,24909,12,10
+213,AlphaTauri,Bahrain Grand Prix,1045,24916,2020,24910,10,11
+3,Williams,Bahrain Grand Prix,1045,24917,2020,24911,14,12
+6,Ferrari,Bahrain Grand Prix,1045,24918,2020,24912,11,13
+3,Williams,Bahrain Grand Prix,1045,24919,2020,24913,20,14
+51,Alfa Romeo,Bahrain Grand Prix,1045,24920,2020,24914,17,15
+51,Alfa Romeo,Bahrain Grand Prix,1045,24921,2020,24915,16,16
+210,Haas F1 Team,Bahrain Grand Prix,1045,24922,2020,24916,18,17
+211,Racing Point,Bahrain Grand Prix,1045,24923,2020,24917,5,18
+211,Racing Point,Bahrain Grand Prix,1045,24924,2020,24918,13,19
+210,Haas F1 Team,Bahrain Grand Prix,1045,24925,2020,24919,19,20
+211,Racing Point,Sakhir Grand Prix,1046,24926,2020,24920,5,1
+4,Renault,Sakhir Grand Prix,1046,24927,2020,24921,11,2
+211,Racing Point,Sakhir Grand Prix,1046,24928,2020,24922,10,3
+1,McLaren,Sakhir Grand Prix,1046,24929,2020,24923,8,4
+4,Renault,Sakhir Grand Prix,1046,24930,2020,24924,7,5
+9,Red Bull,Sakhir Grand Prix,1046,24931,2020,24925,12,6
+213,AlphaTauri,Sakhir Grand Prix,1046,24932,2020,24926,6,7
+131,Mercedes,Sakhir Grand Prix,1046,24933,2020,24927,1,8
+131,Mercedes,Sakhir Grand Prix,1046,24934,2020,24928,2,9
+1,McLaren,Sakhir Grand Prix,1046,24935,2020,24929,19,10
+213,AlphaTauri,Sakhir Grand Prix,1046,24936,2020,24930,9,11
+6,Ferrari,Sakhir Grand Prix,1046,24937,2020,24931,13,12
+51,Alfa Romeo,Sakhir Grand Prix,1046,24938,2020,24932,14,13
+51,Alfa Romeo,Sakhir Grand Prix,1046,24939,2020,24933,18,14
+210,Haas F1 Team,Sakhir Grand Prix,1046,24940,2020,24934,15,15
+3,Williams,Sakhir Grand Prix,1046,24941,2020,24935,17,16
+210,Haas F1 Team,Sakhir Grand Prix,1046,24942,2020,24936,20,17
+3,Williams,Sakhir Grand Prix,1046,24943,2020,24937,16,18
+9,Red Bull,Sakhir Grand Prix,1046,24944,2020,24938,3,19
+6,Ferrari,Sakhir Grand Prix,1046,24945,2020,24939,4,20
+9,Red Bull,Abu Dhabi Grand Prix,1047,24946,2020,24940,1,1
+131,Mercedes,Abu Dhabi Grand Prix,1047,24947,2020,24941,2,2
+131,Mercedes,Abu Dhabi Grand Prix,1047,24948,2020,24942,3,3
+9,Red Bull,Abu Dhabi Grand Prix,1047,24949,2020,24943,5,4
+1,McLaren,Abu Dhabi Grand Prix,1047,24950,2020,24944,4,5
+1,McLaren,Abu Dhabi Grand Prix,1047,24951,2020,24945,6,6
+4,Renault,Abu Dhabi Grand Prix,1047,24952,2020,24946,11,7
+213,AlphaTauri,Abu Dhabi Grand Prix,1047,24953,2020,24947,9,8
+4,Renault,Abu Dhabi Grand Prix,1047,24954,2020,24948,10,9
+211,Racing Point,Abu Dhabi Grand Prix,1047,24955,2020,24949,8,10
+213,AlphaTauri,Abu Dhabi Grand Prix,1047,24956,2020,24950,7,11
+51,Alfa Romeo,Abu Dhabi Grand Prix,1047,24957,2020,24951,15,12
+6,Ferrari,Abu Dhabi Grand Prix,1047,24958,2020,24952,12,13
+6,Ferrari,Abu Dhabi Grand Prix,1047,24959,2020,24953,13,14
+3,Williams,Abu Dhabi Grand Prix,1047,24960,2020,24954,16,15
+51,Alfa Romeo,Abu Dhabi Grand Prix,1047,24961,2020,24955,14,16
+3,Williams,Abu Dhabi Grand Prix,1047,24962,2020,24956,18,17
+210,Haas F1 Team,Abu Dhabi Grand Prix,1047,24963,2020,24957,20,18
+210,Haas F1 Team,Abu Dhabi Grand Prix,1047,24964,2020,24958,17,19
+211,Racing Point,Abu Dhabi Grand Prix,1047,24965,2020,24959,19,20
